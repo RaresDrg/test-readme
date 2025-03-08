@@ -20,7 +20,7 @@
 
 <h2>Features</h2>
 <ul>
-  <li></li>
+  <li>User Authentication: Securely create an account and log in, or use Google authentication for quick access to your personal workspace.</li>
   <li></li>
   <li></li>
 </ul>
