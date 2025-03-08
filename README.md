@@ -1,7 +1,4 @@
 # TaskPro - FullStack App
 
-**Bold Text**
-Bold Text
+# **TaskPro** - FullStack App
 
-
-test-readme
