@@ -1,19 +1,12 @@
-<h1 align="center" color="red">TaskPro - FullStack App</h1>
+<h1>TaskPro - FullStack App</h1>
+
+<h2>Project Links</h2>
+<ul>
+  <li>Live app: <a href="https://taskpro-beryl.vercel.app/">https://taskpro-beryl.vercel.app<li/>
+  <li><li/>
+  <li><li/>
+</ul>
 
 
-
-###
-
-<h2 align="left">Project Links</h2>
-
-###
-
-<p align="left">-Live App: <a href></p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
 
