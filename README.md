@@ -21,7 +21,7 @@
 <h2>Features</h2>
 <ul>
   <li><b>User Authentication</b>: securely create an account and log in, or use Google authentication for quick access to your personal workspace.</li>
-  <li></li>
+  <li><b>Password Recovery</b>: easily reset your password by entering your email and receiving a reset link directly to your inbox.</li>
   <li></li>
 </ul>
 
