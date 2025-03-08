@@ -27,6 +27,7 @@
   <li><b>Select Theme</b>: choose from three available themes: light, dark, or violet, to personalize your application's appearance.</li>
   <li><b>Project Management</b>: create, update, and delete boards, which will be organized in a list for easy selection.</li>
   <li><b>Column Management</b>: configure each board by creating, updating, and deleting columns for optimal structure and making it easier to organize tasks into different categories.</li>
+  <li><b>Card Management</b>: create, update, and delete cards within columns to represent tasks that include essential information such as name, description, priority, and deadline.</li>
 </ul>
 
 
