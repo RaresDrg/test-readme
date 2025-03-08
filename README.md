@@ -25,7 +25,7 @@
   <li><b>Customer Support</b>: get in touch with our support team by filling out a form with your comment and sending it directly for prompt assistance.</li>
   <li><b>Edit Profile</b>: customize your profile by updating your name, email, and optionally adding a profile picture.</li>
   <li><b>Select Theme</b>: choose from three available themes: light, dark, or violet, to personalize your application's appearance.</li>
-  <li><b>Project Management</b>: create, edit, and delete boards, and organize them in a list to choose which one to work on.</li>
+  <li><b>Project Management</b>: create, edit, and delete boards that will be organized in a list to choose which one to work on..</li>
   <li><b>Column Management</b>: configure each board by creating, updating, and deleting columns for optimal structure and making it easier to organize tasks into different categories.</li>
 </ul>
 
