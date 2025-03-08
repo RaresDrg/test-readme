@@ -15,9 +15,7 @@
 
 <h2>Description:</h2>
 <p>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <b>TaskPro</b> is an intuitive Kanban board application designed to help users organize and manage their projects and tasks efficiently. Inspired by tools like Trello or Jira, TaskPro offers a seamless experience for tracking progress and staying productive.
+   &nbsp;&nbsp;&nbsp;&nbsp;<b>TaskPro</b> is an intuitive Kanban board application designed to help users organize and manage their projects and tasks efficiently. Inspired by tools like Trello or Jira, TaskPro offers a seamless experience for tracking progress and staying productive.
 </p>
 
 
