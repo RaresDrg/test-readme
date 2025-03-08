@@ -3,21 +3,18 @@
 <h2>Project Links:</h2>
 <ul>
   <li>
-    <a href="https://taskpro-beryl.vercel.app" target="_blank" style="text-decoration: none">Live App</a>
+    <a href="https://taskpro-beryl.vercel.app">Live App</a>
   </li>
   <li>
-    <a href="https://taskpro-server-delta.vercel.app/api-docs/" target="_blank" style="text-decoration: none">API Documentation</a>
+    <a href="https://www.figma.com/design/fJF13s2UlxPIwTMcPVrSiz/TaskPro">Figma Design</a>
+  </li>
+  <li>
+    <a href="https://taskpro-server-delta.vercel.app/api-docs/">API Documentation</a>
   </li>
 </ul>
 
 
 
-# TaskPro - FullStack App
-
-## Project Links
-
-- [Live App](https://taskpro-beryl.vercel.app) 
-- [API Documentation](https://taskpro-server-delta.vercel.app/api-docs/)
 
 
 
