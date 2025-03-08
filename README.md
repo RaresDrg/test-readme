@@ -1,19 +1,19 @@
-# TaskPro - FullStack App
+<h1>FullStack App<h1/>
 
-## Project Links:
-             - Item 1
-             - Item 2
+<h1 align="left">TaskPro - FullStack App</h1>
 
-### *Project Links**:
-### Project Links:
+###
 
+<h2 align="left">Project Links</h2>
 
-<details>
-<summary> <h2>Project Links: <h1></summary>
-  <ul>
-    <li>Item 1 </li>
-    <li>Item 2 </li>
-  </>
-</details>
+###
+
+<p align="left">-Live App: <a href></p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
 
 
