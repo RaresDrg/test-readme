@@ -1,5 +1,6 @@
 <h1 align="center">TaskPro - FullStack App</h1>
 
+<br>
 <h2>Project Links:</h2>
 <ul>
   <li>
