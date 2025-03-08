@@ -2,13 +2,8 @@
 
 <h2>Project Links:</h2>
 <ul>
-  <li>
-    <a href="https://taskpro-beryl.vercel.app" target="_blank">Live App</a>
-  <li/>
-  <li>
-    <a href="https://taskpro-server-delta.vercel.app/api-docs/" target="_blank">API Documentation</a>
-  <li/>
-  <li><li/>
+  <li><a href="https://taskpro-beryl.vercel.app" target="_blank" style="text-decoration: none;">Live App</a><li/>
+  <li><a href="https://taskpro-server-delta.vercel.app/api-docs/" target="_blank" style="text-decoration: none;">API Documentation</a><li/>
 </ul>
 
 
