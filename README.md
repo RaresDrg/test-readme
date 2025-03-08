@@ -1,6 +1,6 @@
-<h1>FullStack App<h1/>
+<h1 align="left" color="red">TaskPro - FullStack App</h1>
 
-<h1 align="left">TaskPro - FullStack App</h1>
+
 
 ###
 
