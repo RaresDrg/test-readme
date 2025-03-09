@@ -81,6 +81,7 @@
           </li>
         </ul>
       </li>
+      <li><b>Authorization</b>:
     </ul>
   </li>
                     
