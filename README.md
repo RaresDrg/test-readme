@@ -63,8 +63,8 @@
               <li><b>Google OAuth</b>: using user Google account</li>
             <ol/>
           </li>
-          <li><b>Authentication Validated</b>: </li>
         </ul>
+        <li><b>Authentication Validated</b>: </li>
       </li>
     </ul>
   </li>
