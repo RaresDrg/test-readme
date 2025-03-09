@@ -72,7 +72,7 @@
                 </ul>
               </li>
               <li><b>Cookie-Based Responseh</b>: using user Google account</li>
-            </ol>
+            </ul>
           </li>
         </ul>
       </li>
