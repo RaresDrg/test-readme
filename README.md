@@ -40,7 +40,7 @@
   
   <li><b>Styling</b>:
     <ul>
-      <li><b>Styled-components</b>: Facilitates CSS-in-JS for component-based styling, automatic vendor prefixing for browser compatibility, theme management, dynamic styling via props, and nested styling similar to SCSS.</li>
+      <li><b>Styled-components</b>: Used for writing CSS in JavaScript for component-based styling, including automatic prefixing for cross-browser compatibility, theming management, dynamic styling through props, and nested syntax.</li>
     </ul>
   </li>
   
