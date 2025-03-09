@@ -99,7 +99,8 @@
               <li>If the user doesn't exist, it creates a new user with the provided details.</li>
             </ul>
           </li>
-          <li><b>cookieParserMiddleware</b>: Uses the "cookie-parser" library to parse cookies from client requests.</li>
+          <li><b>cookieParserMiddleware</b>: Uses the "cookie-parser" library to parse cookies from client requests.</li>    
+          <li><b>validateTokenMiddleware</b>: Checks the validation token, which can be used in two scenarios: Google authentication process and password reset procedure.</li>
           <li><b>multipartMiddleware</b>: Uses the "multer" library to manage multipart/form-data.</li>
           <li><b>corsMiddleware</b>: Uses the "cors" library to allow secure cross-origin requests exclusively from the client's application.</li>
           <li><b>loggerMiddleware</b>: Uses the "morgan" library to provide logging for HTTP requests and responses, enhancing debugging and monitoring processes.</li>
