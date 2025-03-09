@@ -68,7 +68,7 @@
               <li><b>Token pair generation</b>:
                 <ul>
                   <li><b>Access Token</b>: JSON Web Token (JWT) with a lifespan of 15 minutes</li>
-                  <li><b>Refresh Token</b>: Random bytes token, created using crypto, securely stored in the database.</li>
+                  <li><b>Refresh Token</b>: Random bytes token, created using crypto, securely stored in the database</li>
                 </ul>
               </li>
               <li><b>Server-Side Cookies Response</b>: 
