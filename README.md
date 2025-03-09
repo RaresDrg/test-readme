@@ -60,6 +60,7 @@
       <li><b>Morgan</b>: Provides logging for HTTP requests and responses, enhancing debugging and monitoring processes.</li>
       <li><b>CORS</b>: Configured to allow secure cross-origin requests exclusively from the client's application.</li>
       <li><b>Environment Variables</b>: Managed using Dotenv for secure configuration of sensitive information.</li>
+      <li><b>Bcrypt</b>: Provides secure hashing of passwords to protect user credentials.</li>
     </ul>
   </li>
   <li><b></b>: </li>
