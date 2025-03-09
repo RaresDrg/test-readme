@@ -46,8 +46,8 @@
 
 <h2>Backend</h2>
 <ul>
-  <li><b></b>: </li>
-  <li><b></b>: </li>
+  <li><b>Database</b>: MongoDB</li>
+  <li><b>Object Data Modeling</b>: Mongoose</li>
   <li><b></b>: </li>
   <li><b></b>: </li>
   <li><b></b>: </li>
