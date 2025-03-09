@@ -61,8 +61,8 @@
   </li>
   <li><b>Data Validation</b>:
     <ul>
-      <li><b>Request Validation</b>: </li>
-      <li><b>Database Validation</b>: Implemented Mongoose Schema validation as the second layer to enforce data integrity and constraints when storing data in MongoDB.</li>
+      <li><b>Request Validation</b>: Uses Joi as the first layer to validate request data, ensuring it meets the required format and constraints.</li>
+      <li><b>Database Validation</b>: Uses Mongoose Schema validation as the second layer to enforce data integrity and constraints when storing data in MongoDB.</li>
     </ul>
   </li>
   <li><b>Other Details</b>:
