@@ -1,5 +1,10 @@
 <h1>TaskPro - FullStack App</h1>
 
+<details>
+<summary>Click to expand</summary>
+This is the hidden content
+</details>
+
 <h2>Project Links</h2>
 <ul>
   <li>
