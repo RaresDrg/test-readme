@@ -56,13 +56,7 @@
       <li><b>Module Type</b>: ECMAScript Modules (ESM)</li>
       <li><b>REST API</b></li>
       <li><b>Authentication</b>:
-        <ul>
-
-          <details>
-            <summary>Click to expand</summary>
-            This is the hidden content
-          </details>
-          
+        <ul>   
           <li><b>Methods</b>:
             <ol type="1">
               <li><b>Register / Login</b>: using user credentials</li>
