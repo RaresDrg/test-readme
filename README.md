@@ -63,7 +63,6 @@
               <li><b>Google OAuth</b>: using user Google account</li>
             <ol/>
           </li>
-          <li><b></b>: </li>
         </ul>
       </li>
     </ul>
