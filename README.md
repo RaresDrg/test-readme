@@ -49,7 +49,7 @@
   <li><b>Tools & Technologies</b>: Node.js, Express, Postman, MongoDB Atlas, MongoDB Compass, Google Cloud Platform, Cloudinary</li>
   <li><b>Database</b>: MongoDB</li>
   <li><b>Object Data Modeling</b>: Mongoose</li>
-  <li><b></b>: </li>
+  <li><b>Deploy</b>: Vercel</li>
   <li><b></b>: </li>
   <li><b></b>: </li>
   <li><b></b>: </li>
