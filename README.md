@@ -111,12 +111,7 @@
     </ul>
   </li>
                     
-  <li><b>Data Validation</b>:
-    <ul>
-      <li><b>Request Validation</b>: Uses Joi as the first layer to validate received data, ensuring it meets the required format and constraints.</li>
-      <li><b>Database Validation</b>: Uses Mongoose Schema validation as the second layer to enforce data integrity and constraints when storing data in MongoDB.</li>
-    </ul>
-  </li>
+
   <li><b>Other Details</b>:
     <ul>
       <li><b>Type Safety</b>: Ensured by TypeScript for a more reliable and maintainable codebase</li>
@@ -126,9 +121,12 @@
       <li><b>Bcrypt</b>: Provides secure hashing of passwords to protect user credentials.</li>
       <li><b>Cloudinary</b>: Ensures the secure upload and storage of user profile pictures in the cloud, generating a link to the resource.</li>
       <li><b>Nodemailer</b>: Sends confirmation emails to users after receiving support inquiries and handles sending password reset links.</li>
+      <li><b>Data Validation</b>:
+        <ul>
+          <li><b>Request Validation</b>: Uses Joi as the first layer to validate received data, ensuring it meets the required format and constraints.</li>
+          <li><b>Database Validation</b>: Uses Mongoose Schema validation as the second layer to enforce data integrity and constraints when storing data in MongoDB.</li>
+        </ul>
+      </li>
     </ul>
   </li>
-  <li><b></b>: </li>
 </ul>
-
-
