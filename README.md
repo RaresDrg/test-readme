@@ -63,7 +63,17 @@
               <li><b>Google OAuth</b>: using user Google account</li>
             </ol>
           </li>
-          <li><b>Authentication Validated</b>: </li>
+          <li><b>Upon successful authentication</b>:
+            <ul>
+              <li><b>Two tokens are generated</b>:
+                <ul>
+                  <li>Access Token<b></b>: </li>
+                  <li>Refresh Token<b></b>: </li>
+                </ul>
+              </li>
+              <li><b>Google OAuth</b>: using user Google account</li>
+            </ol>
+          </li>
         </ul>
       </li>
     </ul>
