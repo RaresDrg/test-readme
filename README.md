@@ -78,6 +78,7 @@
       </li>
     </ul>
   </li>
+                    
   <li><b>Data Validation</b>:
     <ul>
       <li><b>Request Validation</b>: Uses Joi as the first layer to validate received data, ensuring it meets the required format and constraints.</li>
