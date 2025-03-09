@@ -41,7 +41,8 @@
   <li><b>Styling</b>:
     <ul>
       <li><b>Styled-components</b>: Used for writing isolated styles for each component, ensuring clean and maintainable code, including automatic prefixing for cross-browser compatibility, theming management, dynamic styling through props, and nested syntax.</li>
-      <li><b>Cross-Browser Compatibility</b>: Ensured also through the use of "modern-normalize" and custom reset properties.</li>
+      <li><b>Cross-Browser Compatibility</b>: Ensured through the use of "modern-normalize" and custom reset properties, providing consistent rendering across different browsers.</li>
+
 
     
     </ul>
