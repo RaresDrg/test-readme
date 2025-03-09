@@ -71,7 +71,7 @@
                   <li><b>Refresh Token</b>: Random bytes token, created using crypto, securely stored in the database.</li>
                 </ul>
               </li>
-              <li><b>Cookie-Based Responseh</b>: using user Google account</li>
+              <li><b>Cookie-Based Response</b>: using user Google account</li>
             </ul>
           </li>
         </ul>
