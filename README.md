@@ -66,6 +66,7 @@
       <li><b>CORS</b>: Configured to allow secure cross-origin requests exclusively from the client's application.</li>
       <li><b>Environment Variables</b>: Managed using Dotenv for secure configuration of sensitive information.</li>
       <li><b>Bcrypt</b>: Provides secure hashing of passwords to protect user credentials.</li>
+      <li><b>Cloudinary</b>: Ensures the secure upload and storage of user profile pictures, generating a link for the resource.</li>
     </ul>
   </li>
   <li><b></b>: </li>
