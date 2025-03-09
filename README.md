@@ -101,6 +101,10 @@
           </li>
           <li><b>cookieParserMiddleware</b>: Uses the "cookie-parser" library to parse cookies from client requests.</li>
           <li><b>multipartMiddleware</b>: Uses the "multer" library to manage multipart/form-data.</li>
+          <li><b>corsMiddleware</b>: Uses the "cors" library to allow secure cross-origin requests exclusively from the client's application.</li>
+          <li><b>loggerMiddleware</b>: Uses the "morgan" library to provide logging for HTTP requests and responses, enhancing debugging and monitoring processes.</li>
+          <li><b>missingRouteMiddleware</b>: Handles missing routes by sending a 404 response with a "API route not found" message.</li>
+          <li><b>errorMiddleware</b>: Captures all errors from the code and sends appropriate responses based on the error type..</li>
         </ul>
       </li>
     </ul>
@@ -121,8 +125,6 @@
       <li><b>Bcrypt</b>: Provides secure hashing of passwords to protect user credentials.</li>
       <li><b>Cloudinary</b>: Ensures the secure upload and storage of user profile pictures in the cloud, generating a link to the resource.</li>
       <li><b>Nodemailer</b>: Sends confirmation emails to users after receiving support inquiries and handles sending password reset links.</li>
-      <li><b>Morgan</b>: Provides logging for HTTP requests and responses, enhancing debugging and monitoring processes.</li>
-      <li><b>CORS</b>: Configured to allow secure cross-origin requests exclusively from the client's application.</li>
     </ul>
   </li>
   <li><b></b>: </li>
