@@ -53,7 +53,7 @@
   <li><b>Tools</b>: Postman, MongoDB Atlas, MongoDB Compass, Google Cloud Platform, Cloudinary</li>
   <li><b>Deploy</b>: Vercel</li>
   <li><b>Linting</b>: ESLint Configuration with strict linting rules for a clean and robust codebase</li>
-  <li><b></b>: </li>
+  <li><b>Type Safety</b>: Ensured by TypeScript for a more reliable and maintainable codebase</li>
   <li><b></b>: </li>
   <li><b></b>: </li>
   <li><b></b>: </li>
