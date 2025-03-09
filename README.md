@@ -59,11 +59,11 @@
         <ul>
           <li><b>Methods</b>:
             <ol>
-              <li>Coffee</li>
-              <li>Tea</li>
-              <li>Milk</li>
+              <li><b>Register / Login</b>: using user credentials</li>
+              <li><b>Google OAuth</b>: using user Google account</li>
             <ol/>
           </li>
+          <li><b></b>: </li>
         </ul>
       </li>
     </ul>
