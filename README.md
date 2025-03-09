@@ -123,8 +123,8 @@
       <li><b>Nodemailer</b>: Sends confirmation emails to users after receiving support inquiries and handles sending password reset links.</li>
       <li><b>Data Validation</b>:
         <ul>
-          <li><b>Request Validation</b>: Uses "joi" library as the first layer to validate received data, ensuring it meets the required format and constraints.</li>
-          <li><b>Database Validation</b>: Uses "Mongoose Schema validation" as the second layer to enforce data integrity and constraints when storing data in MongoDB.</li>
+          <li><b>Request Validation</b>: Uses Joi library as the first layer to validate received data, ensuring it meets the required format and constraints.</li>
+          <li><b>Database Validation</b>: Uses Mongoose Schema validation as the second layer to enforce data integrity and constraints when storing data in MongoDB.</li>
         </ul>
       </li>
     </ul>
