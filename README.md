@@ -96,9 +96,11 @@
             <ul>
               <li>Uses the "passport-google-oauth20 strategy" to handle user authentication through Google.</li>
               <li>Searches for the user in the database based on the information received from Google.</li>
-              <li>If the user doesn't exist, it creates a new user with the provided details</li>
+              <li>If the user doesn't exist, it creates a new user with the provided details.</li>
             </ul>
           </li>
+          <li><b>cookieParserMiddleware</b>: Uses the "cookie-parser" library to parse cookies from client requests.</li>
+          <li><b>multipartMiddleware</b>: Uses the "multer" library to manage multipart/form-data.</li>
         </ul>
       </li>
     </ul>
