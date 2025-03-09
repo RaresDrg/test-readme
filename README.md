@@ -81,7 +81,7 @@
           </li>
         </ul>
       </li>
-      <li><b>Authorization</b>:
+      <li><b>Authorization</b>: In order to access protected routes and private resources, requests must pass through an authorization layer represented by the jwtAuthMiddleware</li>
     </ul>
   </li>
                     
