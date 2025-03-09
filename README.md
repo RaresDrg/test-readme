@@ -105,7 +105,7 @@
           <li><b>corsMiddleware</b>: Uses the "cors" library to allow secure cross-origin requests exclusively from the client's application.</li>
           <li><b>loggerMiddleware</b>: Uses the "morgan" library to provide logging for HTTP requests and responses, enhancing debugging and monitoring processes.</li>
           <li><b>missingRouteMiddleware</b>: Handles missing routes by sending a 404 response with a "API route not found" message.</li>
-          <li><b>errorMiddleware</b>: Captures all errors from the code and sends appropriate responses based on the error type..</li>
+          <li><b>errorMiddleware</b>: Captures all errors from the code and sends appropriate responses based on the error type.</li>
         </ul>
       </li>
     </ul>
