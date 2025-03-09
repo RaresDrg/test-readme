@@ -33,7 +33,7 @@
 
 <h2>Frontend</h2>
 <ul>
-  <li><b></b>: </li>
+  <li><b>Technologies</b>: React, TypeScript</li>
   <li><b></b>: </li>
   <li><b></b>: </li>
   <li><b></b>: </li>
