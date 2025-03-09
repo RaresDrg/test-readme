@@ -67,8 +67,8 @@
     <ul>
       <li><b>Type Safety</b>: Ensured by TypeScript for a more reliable and maintainable codebase</li>
       <li><b>Linting</b>: ESLint Configuration for a clean and robust codebase</li>
-      <li><b>Nodemon</b>: Automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
       <li><b>Environment Variables</b>: Managed using Dotenv for secure configuration of sensitive information.</li>
+      <li><b>Nodemon</b>: Automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
       <li><b>Bcrypt</b>: Provides secure hashing of passwords to protect user credentials.</li>
       <li><b>Cloudinary</b>: Ensures the secure upload and storage of user profile pictures, generating a link to the resource.</li>
       <li><b>Nodemailer</b>: Sends confirmation emails to users after receiving support inquiries and handles sending password reset links.</li>
