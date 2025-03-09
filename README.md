@@ -63,13 +63,7 @@
               <li><b>Google OAuth</b>: using user Google account</li>
             <ol/>
           </li>
-          <li><b>Authentication Validated</b>: Upon successful authentication
-           <ol type="1">
-              <li><b>Register / Login</b>: using user credentials</li>
-              <li><b>Google OAuth</b>: using user Google account</li>
-            <ol/>
-          </li>
-              
+          <li><b>Authentication Validated</b>: </li>
         </ul>
       </li>
     </ul>
