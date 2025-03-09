@@ -1,7 +1,7 @@
 <h1>TaskPro - FullStack App</h1>
 
 <details>
-  <h2>Project Links</h2>
+  <summary><h2>Project Links</h2></summary>
   <ul>
     <li>
       <a href="https://taskpro-beryl.vercel.app">Live App</a>
