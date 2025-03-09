@@ -73,8 +73,8 @@
               </li>
               <li><b>Server-Side Cookies Response</b>: 
                 <ul>
-                  <li><b>accessToken Cookie</b>: valid for 15 minutes.</li>
-                  <li><b>refreshToken Cookie</b>: valid for 24 hours.</li>
+                  <li><b>accessToken Cookie</b>: valid for 15 minutes</li>
+                  <li><b>refreshToken Cookie</b>: valid for 24 hours</li>
                 </ul>
               </li>
             </ul>
