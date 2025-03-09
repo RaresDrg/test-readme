@@ -56,7 +56,15 @@
       <li><b>Module Type</b>: ECMAScript Modules (ESM)</li>
       <li><b>REST API</b></li>
       <li><b>Authentication</b>:
-        <ul>          
+        <ul>
+
+          <li>
+            <details>
+              <summary>Epcot Center</summary>
+              <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+            </details>
+          </li>
+          
           <li><b>Methods</b>:
             <ol type="1">
               <li><b>Register / Login</b>: using user credentials</li>
