@@ -34,6 +34,7 @@
 <h2>Frontend</h2>
 <ul>
   <li><b>Technologies</b>: React, TypeScript</li>
+  <li><b>Deploy</b>: Vercel</li>
   <li><b></b>: </li>
   <li><b></b>: </li>
   <li><b></b>: </li>
