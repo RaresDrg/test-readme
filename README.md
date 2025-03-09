@@ -58,7 +58,7 @@
       <li><b>Authentication</b>:
         <ul>
           <li><b>Methods</b>:
-            <ol>
+            <ol type="1">
               <li><b>Register / Login</b>: using user credentials</li>
               <li><b>Google OAuth</b>: using user Google account</li>
             <ol/>
