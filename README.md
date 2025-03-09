@@ -46,12 +46,12 @@
 
 <h2>Backend</h2>
 <ul>
+  <li><b>REST API</b></li>
   <li><b>Technologies</b>: Node.js, Express, TypeScript</li>
   <li><b>Database</b>: MongoDB</li>
   <li><b>Object Data Modeling</b>: Mongoose</li>
   <li><b>Tools</b>: Postman, MongoDB Atlas, MongoDB Compass, Google Cloud Platform, Cloudinary</li>
   <li><b>Deploy</b>: Vercel</li>
-  <li><b>REST API</b></li>
   <li><b>Linting</b>: ESLint Configuration with strict linting rules for a clean and robust codebase</li>
   <li><b></b>: </li>
   <li><b></b>: </li>
