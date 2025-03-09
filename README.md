@@ -58,12 +58,10 @@
       <li><b>Authentication</b>:
         <ul>
 
-          <li>
-            <details>
-              <summary>Epcot Center</summary>
-              <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
-            </details>
-          </li>
+          <details>
+            <summary>Click to expand</summary>
+            This is the hidden content
+          </details>
           
           <li><b>Methods</b>:
             <ol type="1">
