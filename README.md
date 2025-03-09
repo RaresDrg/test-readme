@@ -8,7 +8,7 @@
   <li>
     <a href="https://www.figma.com/design/fJF13s2UlxPIwTMcPVrSiz/TaskPro">Figma Design</a>
   </li>
-  <li id="apiDoc">
+  <li>
     <a href="https://taskpro-server-delta.vercel.app/api-docs/">API Documentation</a>
   </li>
 </ul>
@@ -110,8 +110,6 @@
       </li>
     </ul>
   </li>
-
-  <a href="#apiDoc">Go to Section 1</a>              
 
   <li><b>Other Details</b>:
     <ul>
