@@ -56,20 +56,7 @@
       <li><b>Module Type</b>: ECMAScript Modules (ESM)</li>
       <li><b>REST API</b></li>
       <li><b>Authentication</b>:
-        <ul>
-
-          <li>
-            <details>
-              <summary><b>Methods</b>:>
-              <ol type="1">
-                <li><b>Register / Login</b>: using user credentials</li>
-                <li><b>Google OAuth</b>: using user Google account</li>
-              </ol>
-            </details>
-          </li>
-
-
-          
+        <ul>          
           <li><b>Methods</b>:
             <ol type="1">
               <li><b>Register / Login</b>: using user credentials</li>
