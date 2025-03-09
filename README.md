@@ -55,7 +55,11 @@
     <ul>
       <li><b>Module Type:</b>: ECMAScript Modules (ESM)</li>
       <li><b>REST API</b></li>
-      <li><b>Authentication</b>: </li>
+      <li><b>Authentication</b>:
+        <ul>
+          <li><b>Methods</b>: </li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li><b>Data Validation</b>:
