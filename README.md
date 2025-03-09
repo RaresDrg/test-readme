@@ -65,13 +65,13 @@
           </li>
           <li><b>Upon successful authentication</b>:
             <ul>
-              <li><b>Two tokens are generated</b>:
+              <li><b>Token pair generation</b>:
                 <ul>
-                  <li>Access Token<b></b>: </li>
-                  <li>Refresh Token<b></b>: </li>
+                  <li><b>Access Token<b></b>: JSON Web Token (JWT) with a lifespan of 15 minutes</li>
+                  <li><b>Refresh Token<b></b>: Random bytes token, created using crypto, securely stored in the database.</li>
                 </ul>
               </li>
-              <li><b>Google OAuth</b>: using user Google account</li>
+              <li><b>Cookie-Based Responseh</b>: using user Google account</li>
             </ol>
           </li>
         </ul>
