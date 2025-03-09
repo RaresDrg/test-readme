@@ -57,13 +57,13 @@
       <li><b>REST API</b></li>
       <li><b>Authentication</b>:
         <ul>
+          <li><b>Authentication Validated</b>: </li>
           <li><b>Methods</b>:
             <ol type="1">
               <li><b>Register / Login</b>: using user credentials</li>
               <li><b>Google OAuth</b>: using user Google account</li>
             <ol/>
           </li>
-          <li><b>Authentication Validated</b>: </li>
         </ul>
       </li>
     </ul>
