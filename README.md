@@ -121,6 +121,7 @@
       <li><b>Bcrypt</b>: Provides secure hashing of passwords to protect user credentials.</li>
       <li><b>Cloudinary</b>: Ensures the secure upload and storage of user profile pictures in the cloud, generating a link to the resource.</li>
       <li><b>Nodemailer</b>: Sends confirmation emails to users after receiving support inquiries and handles sending password reset links.</li>
+      <li><b>Swagger</b>: Used to document and test the API endpoints interactively.</li>
       <li><b>Data Validation</b>:
         <ul>
           <li><b>Request Validation</b>: Uses Joi library as the first layer to validate received data, ensuring it meets the required format and constraints.</li>
