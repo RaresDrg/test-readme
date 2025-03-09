@@ -57,7 +57,13 @@
       <li><b>REST API</b></li>
       <li><b>Authentication</b>:
         <ul>
-          <li><b>Methods</b>: </li>
+          <li><b>Methods</b>:
+            <ol>
+              <li>Coffee</li>
+              <li>Tea</li>
+              <li>Milk</li>
+            <ol/>
+          </li>
         </ul>
       </li>
     </ul>
