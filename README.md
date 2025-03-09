@@ -59,6 +59,12 @@
       <li><b>Module Type:</b>: ECMAScript Modules (ESM)</li>
     </ul>
   </li>
+  <li><b>Data Validation</b>:
+    <ul>
+      <li><b>Request Validation</b>: </li>
+      <li><b>Database Validation</b>: Implemented Mongoose Schema validation as the second layer to enforce data integrity and constraints when storing data in MongoDB.</li>
+    </ul>
+  </li>
   <li><b>Other Details</b>:
     <ul>
       <li><b>Nodemon</b>: Automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
