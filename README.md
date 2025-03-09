@@ -58,6 +58,7 @@
     <ul>
       <li><b>Nodemon</b>: Automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
       <li><b>Morgan</b>: HTTP request logger middleware for debugging and monitoring incoming requests efficiently.</li>
+      <li><b>CORS</b>: Configured to allow secure cross-origin requests exclusively from the client's application.</li>
     </ul>
   </li>
   <li><b></b>: </li>
