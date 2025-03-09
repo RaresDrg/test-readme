@@ -37,7 +37,13 @@
   <li><b>Deploy</b>: Vercel</li>
   <li><b></b>: </li>
   <li><b></b>: </li>
-  <li><b></b>: </li>
+  
+  <li><b>Styling</b>:
+    <ul>
+      <li><b>Styled-components</b>: Facilitates CSS-in-JS for component-based styling, automatic vendor prefixing for browser compatibility, theme management, dynamic styling via props, and nested styling similar to SCSS.</li>
+    </ul>
+  </li>
+  
   <li><b></b>: </li>
   <li><b></b>: </li>
   <li><b></b>: </li>
