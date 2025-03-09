@@ -46,7 +46,6 @@
 
 <h2>Backend</h2>
 <ul>
-  <li><b>REST API</b></li>
   <li><b>Technologies</b>: Node.js, Express, TypeScript</li>
   <li><b>Database</b>: MongoDB</li>
   <li><b>Object Data Modeling</b>: Mongoose</li>
@@ -54,6 +53,7 @@
   <li><b>Deploy</b>: Vercel</li>
   <li><b>Architecture</b>:
     <ul>
+      <li><b>REST API</b></li>
       <li><b>Module Type:</b>: ECMAScript Modules (ESM)</li>
     </ul>
   </li>
