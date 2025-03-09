@@ -93,15 +93,13 @@
             </ul>
           </li>
           <li><b>googleAuthMiddleware</b>: 
-              <ul>
-                <li>Uses the "passport-jwt strategy" to decode the JSON Web Token (JWT) from the accessToken Cookie and search for the user in the database.</li>
-                <li>If the accessToken is expired, the middleware attempts to use the refreshToken from the refreshToken Cookie, to find the user.</li>
-                <li>If the user is found using the refreshToken, the token pair is regenerated, and access to the route is granted</li>
-                <li>If neither accessToken nor refreshToken are valid, access to the route is denied, and a 401 response is sent.</li>
+            <ul>
+              <li>Uses the "passport-jwt strategy" to decode the JSON Web Token (JWT) from the accessToken Cookie and search for the user in the database.</li>
+              <li>If the accessToken is expired, the middleware attempts to use the refreshToken from the refreshToken Cookie, to find the user.</li>
+              <li>If the user is found using the refreshToken, the token pair is regenerated, and access to the route is granted</li>
+              <li>If neither accessToken nor refreshToken are valid, access to the route is denied, and a 401 response is sent.</li>
               </ul>
           </li>
-          
-   
         </ul>
       </li>
     </ul>
