@@ -31,5 +31,30 @@
   <li><b>Filtering</b>: select the priority level to display only those cards that match the chosen priority, making it easier to focus on the desired tasks.</li>
 </ul>
 
+<h2>Frontend</h2>
+<ul>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+</ul>
+
+<h2>Backend</h2>
+<ul>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+  <li><b></b>: </li>
+</ul>
 
 
