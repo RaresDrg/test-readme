@@ -54,8 +54,12 @@
   <li><b>Deploy</b>: Vercel</li>
   <li><b>Linting</b>: ESLint Configuration for a clean and robust codebase</li>
   <li><b>Type Safety</b>: Ensured by TypeScript for a more reliable and maintainable codebase</li>
-  <li><b></b>: </li>
-  <li><b></b>: </li>
+  <li><b>Other Details</b>:
+    <ul>
+      <li><b>Nodemon</b>: Automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
+      <li><b>Morgan</b>: HTTP request logger middleware for debugging and monitoring incoming requests efficiently.</li>
+    </ul>
+  </li>
   <li><b></b>: </li>
 </ul>
 
