@@ -55,17 +55,7 @@
     <ul>
       <li><b>Module Type:</b>: ECMAScript Modules (ESM)</li>
       <li><b>REST API</b></li>
-      <li><b>Authentication</b>: 
-        <ul>
-          <li><b>Methods</b>:
-            <ol>
-               <li><b>User credentials</b>: login & password</li>
-               <li><b>Google Auth</b>: login & password</li>
-            </ol>
-          </li>
-          
-        </ul>
-      </li>
+      <li><b>Authentication</b>: </li>
     </ul>
   </li>
   <li><b>Data Validation</b>:
