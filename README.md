@@ -82,6 +82,21 @@
         </ul>
       </li>
       <li><b>Authorization</b>: In order to access protected routes and private resources, requests must pass through an authorization layer represented by the jwtAuthMiddleware.</li>
+      <li><b>Middleware</b>:
+        <ul>
+          <li><b>jwtAuthMiddleware</b>: 
+              <ul>
+                <li>Uses the passport-jwt strategy to decode the JSON Web Token (JWT) from the accessToken Cookie and search for the user in the database.</li>
+                <li>If the accessToken is expired, the middleware attempts to use the refreshToken from the refreshToken Cookie, to find the user.</li>
+                <li>If the user is found using the refreshToken, the token pair is regenerated, and access to the route is granted</li>
+                <li>If neither accessToken nor refreshToken are valid, access to the route is denied, and a 401 response is sent.</li>
+              </ul>
+          </li>
+          
+          <li><b></b>: </li>
+          <li><b></b>: </li>
+        </ul>
+      </li>
     </ul>
   </li>
                     
