@@ -51,7 +51,7 @@
   <li><b>Object Data Modeling</b>: Mongoose</li>
   <li><b>Tools</b>: Postman, MongoDB Atlas, MongoDB Compass, Google Cloud Platform, Cloudinary</li>
   <li><b>Deploy</b>: Vercel</li>
-  <li><b></b>: </li>
+  <li><b>REST API</b></li>
   <li><b></b>: </li>
   <li><b></b>: </li>
   <li><b></b>: </li>
