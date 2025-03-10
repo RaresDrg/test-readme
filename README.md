@@ -115,6 +115,12 @@
       <li><b>Ellipsis Tooltip</b>: Using the <i>"tippy.js"</i> library to handle visually long elements by truncating them and displaying an ellipsis, which reveals the full text when users hover over it, enhancing readability.</li>
     </ul>
   </li>
+  <li><b>Other Details</b>: 
+    <ul>
+      <li><b>Forms</b>: Utilizing the <b>Formik</b> library to build forms, ensuring efficient handling and a user-friendly form management experience.</li>
+      <li><b>Data Validation</b>: Using <b>Yup</b> as a complementary library to Formik forms, ensuring robust data validation and enhancing form reliability.</li>
+    </ul>
+  </li>
 </ul>
 
 <h2>Backend</h2>
