@@ -167,7 +167,33 @@
       </li>
     </ul>
   </li>
-   
+  <li><b>Authorization</b>: In order to access protected routes and private resources, requests must pass through an authorization layer represented by the jwtAuthMiddleware.</li>
+  <li><b>Middleware</b>:
+    <ul>
+      <li><b>jwtAuthMiddleware</b>: 
+        <ul>
+          <li>Uses the "passport-jwt strategy" to decode the JSON Web Token (JWT) from the accessToken Cookie and search for the user in the database.</li>
+          <li>If the accessToken is expired, the middleware attempts to use the refreshToken from the refreshToken Cookie, to find the user.</li>
+          <li>If the user is found using the refreshToken, the token pair is regenerated, and access to the route is granted.</li>
+          <li>If neither accessToken nor refreshToken are valid, access to the route is denied, and a 401 response is sent.</li>
+        </ul>
+      </li>
+      <li><b>googleAuthMiddleware</b>: 
+        <ul>
+          <li>Uses the "passport-google-oauth20 strategy" to handle user authentication through Google.</li>
+          <li>Searches for the user in the database based on the information received from Google.</li>
+          <li>If the user doesn't exist, it creates a new user with the provided details.</li>
+        </ul>
+      </li>
+      <li><b>cookieParserMiddleware</b>: Uses the "cookie-parser" library to parse cookies from client requests.</li>    
+      <li><b>validateTokenMiddleware</b>: Checks the validation token, which can be used in two scenarios: Google authentication process and password reset procedure.</li>
+      <li><b>multipartMiddleware</b>: Uses the "multer" library to manage multipart/form-data.</li>
+      <li><b>corsMiddleware</b>: Uses the "cors" library to allow secure cross-origin requests exclusively from the client's application.</li>
+      <li><b>loggerMiddleware</b>: Uses the "morgan" library to provide logging for HTTP requests and responses, enhancing debugging and monitoring processes.</li>
+      <li><b>missingRouteMiddleware</b>: Handles missing routes by sending a 404 response with a "API route not found" message.</li>
+      <li><b>errorMiddleware</b>: Captures all errors from the code and sends appropriate responses based on the error type.</li>
+    </ul>
+  </li>
 
 
   
