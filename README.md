@@ -204,6 +204,7 @@
   </li>
 </ul>
 
+<hr>
 <div align="center">
-  <img height="100" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741618059/TaskPro/assets/logo/TaskPro_logo.png"  />
+  <img height="50" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741618059/TaskPro/assets/logo/TaskPro_logo.png"  />
 </div>
