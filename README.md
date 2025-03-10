@@ -57,10 +57,9 @@
   </li>
   <li><b>User Experience (UX)</b>: 
     <ul>
-     
+      <li><b>Navigation</b>: Designed with a clear and intuitive structure to help users easily find what they need.</li>
       <li><b>Loading Screen</b>: Used for the login and logout processes, providing visual feedback and improving the user's interaction with the application.</li>
       <li><b>Loading Spinner</b>: Displayed at key moments in the application, notably when awaiting server responses, providing users with real-time feedback.</li>
-
     </ul>
   </li>
 </ul>
