@@ -35,7 +35,12 @@
 <ul>
   <li><b>Technologies</b>: React, TypeScript, Redux, Styled-components</li>
   <li><b>Deploy</b>: Vercel</li>
-  <li><b></b>: </li>
+  <li><b></b>: </li> 
+  <li><b>Architecture</b>:
+    <li>Template<b></b>: <b>Vite</b> - for a swift and efficient build process.</li> 
+    <li><b></b>: </li> 
+    <li><b></b>: </li> 
+  </li>
   <li><b>State Management</b>:
     <ul>
       <li><b>Redux</b>: Used for centralized state management in the application.</li>
