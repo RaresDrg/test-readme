@@ -37,9 +37,11 @@
   <li><b>Deploy</b>: Vercel</li>
   <li><b></b>: </li> 
   <li><b>Architecture</b>:
-    <li>Template<b></b>: <b>Vite</b> - for a swift and efficient build process.</li> 
-    <li><b></b>: </li> 
-    <li><b></b>: </li> 
+    <ul>
+      <li>Template<b></b>: <b>Vite</b> - for a swift and efficient build process.</li> 
+      <li><b></b>: </li> 
+      <li><b></b>: </li> 
+    </ul>
   </li>
   <li><b>State Management</b>:
     <ul>
