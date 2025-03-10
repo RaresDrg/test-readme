@@ -36,7 +36,7 @@
   <li><b>Technologies</b>: React, TypeScript, Redux, Styled-components</li>
   <li><b>Deploy</b>: Vercel</li>
   <li><b></b>: </li> 
-  <li><b>Architecture</b>:
+  <li><b>Project Setup</b>:
     <ul>
       <li><b>Vite Template</b>: For a swift and efficient build process.</li>
       <li><b>Type Safety</b>: Ensured by TypeScript for a more reliable and maintainable codebase.</li>
