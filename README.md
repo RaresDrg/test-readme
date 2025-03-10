@@ -42,6 +42,15 @@
       <li><b>Styled-components</b>:  Used for writing isolated styles for each component, ensuring clean and maintainable code, including automatic prefixing for cross-browser compatibility, theming management, dynamic styling through props, and nested syntax.</li>
       <li><b>Cross-Browser Compatibility</b>: Ensured through the use of "modern-normalize" and custom reset properties, providing consistent rendering across different browsers.</li>    
       <li><b>Responsive Design</b>: Applied through media queries, flexible layouts, and the "react-responsive" library, which conditionally renders components based on the size of the viewport, ensuring the application adapts effectively to various devices and screen dimensions.</li>
+   
+      <li><b>Responsive Design</b>:
+        <ul>
+          <li>Applied through a <b>mobile-first approach</b>, ensuring the application is optimized for mobile devices first.</li>
+          <li>Using media queries and flexible layouts to adapt the design effectively to various devices and screen dimensions.</li>
+          <li>Using <i>"react-responsive" library, which conditionally renders components based on the size of the viewport.</li>
+        </ul>
+      </li>
+    
     </ul>
   </li>
 </ul>
