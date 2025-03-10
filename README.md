@@ -72,7 +72,7 @@
           <li><b>Protected Routes</b>: </li>
         </ul>
       </li>
-      <li><b>Not Found Page</b>: The application handles non-existent routes by displaying this page with a 404 error message.</li>
+      <li><b>Not Found Page</b>: The application handles non-existent routes by displaying this page with a <b>404</b> error message.</li>
       <li><b></b>: </li>
       <li><b></b>: </li>
     </ul>
