@@ -38,15 +38,17 @@
   <li><b></b>: </li>
   <li><b>State Management</b>:
     <ul>
-      <li><b>Redux</b>: Used for centralized state management in the application, providing a predictable and organized data flow.</li>
+      <li><b>Redux</b>: Used for centralized state management in the application.</li>
       <li><b>Redux Toolkit</b>: Integrated to simplify Redux configuration, by utilizing slices to modularize state logic, creating actions and reducers more efficiently, and streamlining the setup process for improved code readability and maintenance.</li>
       <li><b>Redux Persist</b>: Implemented to persist the application state across sessions, ensuring data consistency and improving the user experience by retaining state even after page reloads.</li>
     </ul>
   </li>
   <li><b>API Client</b>: 
-    <li>Created a custom <b>"Axios"</b> instance to encapsulate the configuration and logic, ensuring consistency and reusability across the application.</li>
-    <li>Configured to handle HTTP requests to the server, with a base URL and credentials included.</li>
-    <li>Implemented response interceptors to manage authentication errors, initiating a forced logout for user reauthentication when a 401 Unauthorized response occurs.</li>
+    <ul>
+      <li>Created a custom <b>"Axios"</b> instance to encapsulate the configuration and logic, ensuring consistency and reusability across the application.</li>
+      <li>Configured to handle HTTP requests to the server, with a base URL and credentials included.</li>
+      <li>Implemented response interceptors to manage authentication errors, initiating a forced logout for user reauthentication when a 401 Unauthorized response occurs.</li>
+    </ul>
   </li>
  
   <li><b>Styling</b>: 
