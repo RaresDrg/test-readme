@@ -47,7 +47,7 @@
     <ul>
       <li>Created a custom <b>"Axios"</b> instance to encapsulate the configuration and logic, ensuring consistency and reusability across the application.</li>
       <li>Configured to handle HTTP requests to the server, with a base URL and credentials included.</li>
-      <li>Implemented response interceptors to manage authentication errors, initiating a forced logout for user reauthentication when a 401 Unauthorized response occurs.</li>
+      <li>Implemented <b>response interceptors</b> to manage authentication errors, initiating a forced logout for user reauthentication when a <b>401 Unauthorized</b>b> response occurs.</li>
     </ul>
   </li>
  
