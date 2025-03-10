@@ -3,6 +3,8 @@
     <img height="40" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741641782/TaskPro/assets/logo/vuyvdwiaxcoaj9po4uv8.png"  />
   </a>
 </div>
+
+<br/>
  
 <h2>FullStack App</h2>
 <div align="center">
