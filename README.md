@@ -66,7 +66,7 @@
   </li>
   <li><b>Routing </b>:
     <ul>
-      <li>Using <b>React Router</b>, the application is divided into the following types of routes: 
+      <li>Depending on the user's <b>authentication status</b>b>, the application routes are organized as follows: 
         <ul>
           <li><b>Restricted Routes</b>: </li>
           <li><b>Protected Routes</b>: </li>
