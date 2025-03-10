@@ -235,6 +235,6 @@
 <hr>
 <div align="center">
   <a href="https://taskpro-beryl.vercel.app/">
-    <img height="50" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741618059/TaskPro/assets/logo/TaskPro_logo.png"  />
+    <img height="60" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741618059/TaskPro/assets/logo/TaskPro_logo.png"  />
   </a>
 </div>
