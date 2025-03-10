@@ -49,7 +49,7 @@
           <li>Utilized responsive images and backgrounds, with dimensions and versions tailored to ensure optimal visual experience across different screen sizes and pixel densities - <b>Retina display support</b>.</li>
         </ul>
       </li>
-      <li><b>Sprite Technique</b>: Consolidated all vector icons into a single sprite file, enhancing performance by reducing server requests and improving page load times.</li>      
+      <li><b>Sprite Technique</b>: Consolidated all vector icons into a single sprite file, enhancing performance by reducing server requests and improving page load times, while making icon access and management easier.</li>      
     </ul>
   </li>
 </ul>
