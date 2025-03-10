@@ -38,7 +38,7 @@
     <ul>
       <li><b>Vite Template</b>: For a swift and efficient build process.</li>
       <li><b>Deploy</b>: Vercel.</li>
-      <li><b>Type Safety</b>: Ensured by TypeScript configuration for strict type-checking and an enhanced development experience.</li>
+      <li><b>Type Safety</b>: Ensured by TypeScript for strict type-checking and an enhanced development experience.</li>
       <li><b>Linting</b>: Enforcing ESLint configuration for a clean and robust codebase.</li>
     </ul>
   </li>
@@ -130,6 +130,19 @@
   <li><b>Database</b>: MongoDB</li>
   <li><b>Object Data Modeling</b>: Mongoose</li>
   <li><b>Tools</b>: Postman, MongoDB Atlas, MongoDB Compass, Google Cloud Platform, Cloudinary</li>
+  
+  <li><b>Project Setup</b>: 
+    <ul>
+      <li><b>Module Type</b>: ECMAScript Modules (ESM)</li>
+      <li><b>Deploy</b>: Vercel</li>
+      <li><b>Type Safety</b>: Ensured by TypeScript for a more reliable and maintainable codebase.</li>
+      <li><b>Linting</b>: ESLint Configuration for a clean and robust codebase.</li>
+      <li><b>Environment Variables</b>: Managed using <b>Dotenv</b> for secure configuration of sensitive information.</li>
+      <li><b>Nodemon</b>: Automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
+    </ul>
+  </li>
+
+  
   <li><b>Deploy</b>: Vercel</li>
   <li><b>Architecture</b>:
     <ul>
