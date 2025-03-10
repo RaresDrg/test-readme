@@ -142,32 +142,8 @@
     </ul>
   </li>
   
-  <li>b>Authentication</b>: 
-    <ul>
-      <li><b>Methods</b>:
-        <ol type="1">
-          <li><b>Register / Login</b>: using user credentials</li>
-          <li><b>Google OAuth</b>: using user Google account</li>
-        </ol>
-      </li>
-      <li><b>Upon successful authentication</b>:
-        <ul>
-          <li><b>Token pair generation</b>:
-            <ul>
-              <li><b>Access Token</b>: JSON Web Token (JWT) with a lifespan of 15 minutes</li>
-              <li><b>Refresh Token</b>: Random bytes token, created using crypto, securely stored in the database</li>
-            </ul>
-          </li>
-          <li><b>Server-Side Cookies Response</b>: 
-            <ul>
-              <li><b>accessToken Cookie</b>: valid for 15 minutes</li>
-              <li><b>refreshToken Cookie</b>: valid for 24 hours</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
+   
+
 
   
   <li><b>Deploy</b>: Vercel</li>
