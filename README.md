@@ -73,7 +73,7 @@
         </ul>
       </li>
       <li><b>Not Found Page</b>: The application handles non-existent routes by displaying this page with a <b>404</b> error message.</li>
-      <li><b>Shared Layout</b>: Used this approach to handle shared elements in one place, reducing code repetition, simplifying maintenance, and improving page load times.</li>
+      <li><b>Shared Layout</b>: Used this approach to handle shared components in one place, reducing code repetition, simplifying maintenance, and improving page load times.</li>
       <li><b></b>: </li>
     </ul>
   </li>
