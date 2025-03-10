@@ -47,7 +47,7 @@
         <ul>
           <li>Applied through a <b>mobile-first approach</b>, ensuring the application is optimized for mobile devices first.</li>
           <li>Using media queries and flexible layouts to adapt the design effectively to various devices and screen dimensions.</li>
-          <li>Using <i>"react-responsive" library, which conditionally renders components based on the size of the viewport.</li>
+          <li>Using <i>"react-responsive"</i> library, which conditionally renders components based on the size of the viewport.</li>
         </ul>
       </li>
     
