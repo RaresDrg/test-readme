@@ -38,8 +38,8 @@
   <li><b></b>: </li> 
   <li><b>Architecture</b>:
     <ul>
-      <li>Vite Template<b></b>: For a swift and efficient build process.</li>
-      <li><b>Module Type</b>: ECMAScript Modules (ESM)</li>
+      <li><b>Vite Template</b>: For a swift and efficient build process.</li>
+      <li><b>Module Type</b>: ECMAScript Modules (ESM).</li>
       <li><b></b>: </li> 
       <li><b></b>: </li> 
     </ul>
