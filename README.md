@@ -1,4 +1,4 @@
-<h1>TaskPro - FullStack App</h1>
+<h1 align="center">TaskPro - FullStack App</h1>
 
 <h2>Project Links</h2>
 <ul>
