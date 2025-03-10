@@ -47,7 +47,7 @@
       <li><b>Module Type</b>: ECMAScript Modules (ESM).</li>
       <li><b>Components Type</b>: Reusable functional components.</li> 
       <li><b>Custom Hooks:</b>: Developed to encapsulate and reuse logic across different components, enhancing code maintainability and consistency.</li> 
-      <li><b>Utils:</b>: Helpers functions implemented to perform common tasks, improving code readability and avoiding duplication .</li> 
+      <li><b>Utils:</b>: Helper functions implemented to perform common tasks, improving code readability and avoiding duplication.</li> 
     </ul>
   </li> 
   <li><b>State Management</b>:
