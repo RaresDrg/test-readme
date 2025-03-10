@@ -69,7 +69,7 @@
         </ul>
       </li>
       <li><b>Notifications</b>: Utilized <i>"react-toastify"</i> library to display different types of notifications, including success, error, and warning messages, particularly when a response is received from a server request, providing immediate feedback to users.</li>
-      <li><b></b>: </li>
+      <li><b>Forced Logout</b>: Implemented a mechanism that, upon receiving a 401 response from the server (indicating the user is not authorized), forces a logout, requiring the user to reauthenticate.</li>
     </ul>
   </li>
 </ul>
