@@ -66,7 +66,13 @@
   </li>
   <li><b>Routing </b>:
     <ul>
-      <li><b></b>: </li>
+      <li>Using <b>React Router<b>, the application is divided into the following types of routes: 
+        <ul>
+          <li><b>RestrictedRoutes</b>: </li>
+          <li><b>ProtectedRoutes</b>: </li>
+          <li><b>NotFoundPage</b>: </li>
+        </ul>
+      </li>
       <li><b></b>: </li>
       <li><b></b>: </li>
     </ul>
