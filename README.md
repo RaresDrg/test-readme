@@ -38,7 +38,7 @@
   <li><b>Project Setup</b>:
     <ul>
       <li><b>Vite Template</b>: For a swift and efficient build process.</li>
-      <li><b>Deploy</b>: Vercel</li>
+      <li><b>Deploy</b>: Vercel.</li>
       <li><b>Type Safety</b>: Ensured by TypeScript configuration for strict type-checking and an enhanced development experience.</li>
       <li><b>Linting</b>: Enforcing ESLint configuration for a clean and robust codebase.</li>
       <li><b>Module Type</b>: ECMAScript Modules (ESM).</li>
