@@ -73,8 +73,8 @@
   </li>
   <li><b>Styling</b>: 
     <ul>
-      <li><b>Styled-components</b>: Used for writing isolated styles for each component, ensuring clean and maintainable code, including automatic prefixing for cross-browser compatibility, theming management, dynamic styling through props, and nested syntax.</li>
-      <li><b>Cross-Browser Compatibility</b>: Ensured through the use of <i>"modern-normalize"</i> and custom reset properties, providing consistent rendering across different browsers.</li>    
+      <li><b>Styled-components</b>: used for writing isolated styles for each component, ensuring clean and maintainable code, including automatic prefixing for cross-browser compatibility, theming management, dynamic styling through props, and nested syntax.</li>
+      <li><b>Cross-Browser Compatibility</b>: ensured through the use of <i>"modern-normalize"</i> and custom reset properties, providing consistent rendering across different browsers.</li>    
       <li><b>Responsive Design</b>:
         <ul>
           <li>Applied through a <b>mobile-first approach</b>, ensuring the application is optimized for mobile devices first.</li>
@@ -83,10 +83,10 @@
           <li>Utilized responsive images and backgrounds, with dimensions and versions tailored to ensure optimal visual experience across different screen sizes and pixel densities - <b>Retina display support</b>.</li>
         </ul>
       </li>
-      <li><b>Sprite Technique</b>: Consolidated all vector icons into a single sprite file, enhancing performance by reducing server requests and improving page load times, while making icon access and management easier.</li>      
-      <li><b>Themes</b>: The application supports three distinct themes: dark, light, and violet, allowing users to choose their preferred visual appearance.</li>
-      <li><b>Transitions</b>: Implemented to provide smooth effects during user interactions and particularly when changing themes, maintaining consistency across various elements.</li>
-      <li><b>Animations</b>: Incorporated custom animations and animations from the <i>"animate.css"</i> library to enrich the visual appeal and create an engaging user experience.</li>
+      <li><b>Sprite Technique</b>: consolidated all vector icons into a single sprite file, enhancing performance by reducing server requests and improving page load times, while making icon access and management easier.</li>      
+      <li><b>Themes</b>: the application supports three distinct themes: dark, light, and violet, allowing users to choose their preferred visual appearance.</li>
+      <li><b>Transitions</b>: implemented to provide smooth effects during user interactions and particularly when changing themes, maintaining consistency across various elements.</li>
+      <li><b>Animations</b>: incorporated custom animations and animations from the <i>"animate.css"</i> library to enrich the visual appeal and create an engaging user experience.</li>
     </ul>
   </li>
   <li><b>User Experience (UX)</b>: 
