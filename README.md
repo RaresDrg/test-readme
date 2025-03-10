@@ -42,7 +42,7 @@
       <li><b>Type Safety</b>: Ensured by TypeScript for a more reliable and maintainable codebase.</li>
       <li><b>Linting</b>: ESLint Configuration for a clean and robust codebase.</li>
       <li><b>Module Type</b>: ECMAScript Modules (ESM).</li>
-      <li><b>Components Type</b>: Developed reusable functional components, ensuring a clean, maintainable, and scalable codebase.</li> 
+      <li><b>Components Type</b>: Reusable functional components.</li> 
       <li><b></b>: </li> 
     </ul>
   </li>
