@@ -60,7 +60,15 @@
       <li><b>Navigation</b>: Designed to be intuitive, guiding users and clearly indicating their current location within the application.</li>
       <li><b>Loading Screen</b>: Used for the login and logout processes, providing visual feedback and improving the user's interaction with the application.</li>
       <li><b>Loading Spinner</b>: Displayed at key moments in the application, notably when awaiting server responses, providing users with real-time feedback.</li>
-      <li>Modal Closure Options<b></b>: When a modal is open, it can be closed in multiple ways: by clicking the <b>"X"</b> button, by pressing the <b>"Esc"</b> key, by performing a mouse down action outside the modal, or automatically upon submitting the form within the modal and receiving a positive response from the server.</li>
+      <li><b>Modal Closure Options</b>: When a modal is open, it can be closed in multiple ways: by clicking the <b>"X"</b> button, by pressing the <b>"Esc"</b> key, by performing a mouse down action outside the modal, or automatically upon submitting the form within the modal and receiving a positive response from the server.</li>
+      <li><b>Modal Closure Options</b>: When a modal is open, it can be closed in multiple ways: 
+        <ul>
+          <li>by clicking the <b>"X"</b> button</li>
+          <li>by pressing the <b>"Esc"</b> key</li>
+          <li>by performing a mouse down action outside the modal</li>
+          <li>automatically upon submitting the form within the modal and receiving a positive response from the server</li>
+        </ul>
+      </li>
       <li><b>Form Feedback</b>:
         <ul>
           <li><b>Placeholders</b>: Implemented to indicate the necessary data for each field, guiding users in completing the forms correctly.</li>
