@@ -69,12 +69,12 @@
       <li>Depending on the user's <b>authentication status</b>, the application routes are accessible as follows: 
         <ul>
           <li><b>Restricted Routes</b>: Can only be accessed when the user is not authenticated.</li>
-          <li><b>Protected Routes</b>: Can only be accessed when the user is authenticated</li>
+          <li><b>Protected Routes</b>: Can only be accessed when the user is authenticated.</li>
         </ul>
       </li>
       <li><b>Not Found Page</b>: The application handles non-existent routes by displaying this page with a <b>404</b> error message.</li>
       <li><b>Shared Layout</b>: Used this approach to handle shared components in one place, reducing code repetition, simplifying maintenance, and improving page load times.</li>
-      <li><b></b>: </li>
+      <li><b>Route-centric</b>: Used this approach to split the code based on the application's routes, loading each route's code only when needed, thus reducing initial load times and enhancing performance.</li>
     </ul>
   </li>
   <li><b>Styling</b>: 
