@@ -40,7 +40,7 @@
     <ul>
       <li><b>Vite Template</b>: For a swift and efficient build process.</li>
       <li><b>Module Type</b>: ECMAScript Modules (ESM).</li>
-      <li><b>Components Type</b>: Developed functional components with a focus on reusability, contributing to a more organized and scalable code structure.</li> 
+      <li><b>Components Type</b>: Developed reusable functional components, ensuring a clean, maintainable, and scalable codebase.</li> 
       <li><b></b>: </li> 
     </ul>
   </li>
