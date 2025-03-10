@@ -68,11 +68,11 @@
     <ul>
       <li>Using <b>React Router</b>, the application is divided into the following types of routes: 
         <ul>
-          <li><b>RestrictedRoutes</b>: </li>
-          <li><b>ProtectedRoutes</b>: </li>
-          <li><b>NotFoundPage</b>: </li>
+          <li><b>Restricted Routes</b>: </li>
+          <li><b>Protected Routes</b>: </li>
         </ul>
       </li>
+      <li><b>Not Found Page</b>: The application handles non-existent routes by displaying this page with a 404 error message.</li>
       <li><b></b>: </li>
       <li><b></b>: </li>
     </ul>
