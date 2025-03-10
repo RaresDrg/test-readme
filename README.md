@@ -68,7 +68,7 @@
           <li><b>Password Visibility Toggle</b>: Included a show icon for password fields, allowing users to toggle the visibility of their password, enhancing usability.</li>
         </ul>
       </li>
-      <li>Notifications<b></b>: Utilized <i>"react-toastify"</i> library to display different types of notifications, including success, error, and warning messages, particularly when a response is received from a server request, providing immediate feedback to users.</li>
+      <li><b>Notifications</b>: Utilized <i>"react-toastify"</i> library to display different types of notifications, including success, error, and warning messages, particularly when a response is received from a server request, providing immediate feedback to users.</li>
       <li><b></b>: </li>
     </ul>
   </li>
