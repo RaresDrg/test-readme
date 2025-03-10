@@ -66,7 +66,7 @@
   </li>
   <li><b>Routing </b>:
     <ul>
-      <li>Using <b>React Router<b>, the application is divided into the following types of routes: 
+      <li>Using <b>React Router</b>, the application is divided into the following types of routes: 
         <ul>
           <li><b>RestrictedRoutes</b>: </li>
           <li><b>ProtectedRoutes</b>: </li>
