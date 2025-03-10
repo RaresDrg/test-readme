@@ -36,6 +36,12 @@
   <li><b>Technologies</b>: React, TypeScript</li>
   <li><b>Deploy</b>: Vercel</li>
   <li><b></b>: </li>
+  <li><b>State Management</b>:
+    <ul>
+       <li><b>Redux</b>: Used for centralized state management in the application, providing a predictable and organized data flow.</li>
+       <li><b>Redux Toolkit</b>: Integrated to simplify Redux configuration, by utilizing slices to modularize state logic, creating actions and reducers more efficiently, and streamlining the setup process for improved code readability and maintenance.</li>
+    </ul>
+  </li>
  
   <li><b>Styling</b>: 
     <ul>
