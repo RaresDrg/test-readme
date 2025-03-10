@@ -38,8 +38,9 @@
   <li><b></b>: </li>
   <li><b>State Management</b>:
     <ul>
-       <li><b>Redux</b>: Used for centralized state management in the application, providing a predictable and organized data flow.</li>
-       <li><b>Redux Toolkit</b>: Integrated to simplify Redux configuration, by utilizing slices to modularize state logic, creating actions and reducers more efficiently, and streamlining the setup process for improved code readability and maintenance.</li>
+      <li><b>Redux</b>: Used for centralized state management in the application, providing a predictable and organized data flow.</li>
+      <li><b>Redux Toolkit</b>: Integrated to simplify Redux configuration, by utilizing slices to modularize state logic, creating actions and reducers more efficiently, and streamlining the setup process for improved code readability and maintenance.</li>
+      <li><b>Redux Persist</b>: Implemented to persist the application state across sessions, ensuring data consistency and improving the user experience by retaining state even after page reloads.</li>
     </ul>
   </li>
  
