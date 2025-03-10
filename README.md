@@ -129,10 +129,10 @@
     <ul>
       <li><b>Module Type</b>: ECMAScript Modules (ESM)</li>
       <li><b>Deploy</b>: Vercel</li>
-      <li><b>Type Safety</b>: Ensured by TypeScript for a more reliable and maintainable codebase.</li>
+      <li><b>Type Safety</b>: ensured by TypeScript for a more reliable and maintainable codebase.</li>
       <li><b>Linting</b>: ESLint Configuration for a clean and robust codebase.</li>
-      <li><b>Environment Variables</b>: Managed using <b>Dotenv</b> for secure configuration of sensitive information.</li>
-      <li><b>Nodemon</b>: Automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
+      <li><b>Environment Variables</b>: managed using <b>Dotenv</b> for secure configuration of sensitive information.</li>
+      <li><b>Nodemon</b>: automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
     </ul>
   </li>
   <li><b>Authentication</b>:
@@ -161,7 +161,7 @@
       </li>
     </ul>
   </li>
-  <li><b>Authorization</b>: In order to access protected routes and private resources, requests must pass through an authorization layer represented by the jwtAuthMiddleware.</li>
+  <li><b>Authorization</b>: in order to access protected routes and private resources, requests must pass through an <b>authorization layer</b> represented by the jwtAuthMiddleware.</li>
   <li><b>Middleware</b>:
     <ul>
       <li><b>jwtAuthMiddleware</b>: 
