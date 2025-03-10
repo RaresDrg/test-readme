@@ -72,6 +72,7 @@
       <li><b>Notifications</b>: Utilized <i>"react-toastify"</i> library to display different types of notifications, including success, error, and warning messages, particularly when a response is received from a server request, providing immediate feedback to users.</li>
       <li><b>Forced Logout</b>: Implemented a mechanism that, upon receiving a 401 response from the server (indicating the user is not authorized), forces a logout, requiring the user to reauthenticate.</li>
       <li><b>Drag & Drop</b>: This feature allows users to easily move and organize cards within the application, enhancing usability and interaction efficiency.</li>
+      <li><b>Ellipsis Tooltip</b>: Using the <i>"tippy.js"</i> library to handle visually long elements by truncating them and displaying an ellipsis, which reveals the full text when users hover over it, enhancing readability.</li>
     </ul>
   </li>
 </ul>
