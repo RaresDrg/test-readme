@@ -1,4 +1,8 @@
-<h1 align="center">TaskPro - FullStack App</h1>
+<div align="center">
+  <a href="https://taskpro-beryl.vercel.app/">
+    <img height="60" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741618059/TaskPro/assets/logo/TaskPro_logo.png"  />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -229,10 +233,3 @@
     </ul>
   </li>
 </ul>
-
-<hr>
-<div align="center">
-  <a href="https://taskpro-beryl.vercel.app/">
-    <img height="60" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741618059/TaskPro/assets/logo/TaskPro_logo.png"  />
-  </a>
-</div>
