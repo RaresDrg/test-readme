@@ -64,7 +64,13 @@
       <li>Implemented <b>response interceptors</b> to manage authentication errors, initiating a forced logout for user reauthentication when a <b>401 Unauthorized</b> response occurs.</li>
     </ul>
   </li>
- 
+  <li><b>Routing </b>:
+    <ul>
+      <li><b></b>: </li>
+      <li><b></b>: </li>
+      <li><b></b>: </li>
+    </ul>
+  </li>
   <li><b>Styling</b>: 
     <ul>
       <li><b>Styled-components</b>: Used for writing isolated styles for each component, ensuring clean and maintainable code, including automatic prefixing for cross-browser compatibility, theming management, dynamic styling through props, and nested syntax.</li>
