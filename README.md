@@ -55,6 +55,11 @@
       <li><b>Animations</b>: Incorporated custom animations and animations from the <i>"animate.css"</i> library to enrich the visual appeal and create an engaging user experience.</li>
     </ul>
   </li>
+  <li><b>User Experience (UX)</b>: 
+    <ul>
+      <li><b>Loading Screen</b>: Used for the login and logout processes, providing visual feedback and improving the user's interaction with the application.</li>
+    </ul>
+  </li>
 </ul>
 
 <h2>Backend</h2>
