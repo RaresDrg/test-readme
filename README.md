@@ -62,13 +62,13 @@
     <ul>
       <li>Depending on the user's <b>authentication status</b>, the application routes are accessible as follows: 
         <ul>
-          <li><b>Restricted Routes</b>: Can only be accessed when the user is not authenticated.</li>
-          <li><b>Protected Routes</b>: Can only be accessed when the user is authenticated.</li>
+          <li><b>Restricted Routes</b>: can only be accessed when the user is not authenticated.</li>
+          <li><b>Protected Routes</b>: can only be accessed when the user is authenticated.</li>
         </ul>
       </li>
-      <li><b>Not Found Page</b>: The application handles non-existent routes by displaying this page with a <b>404</b> error message.</li>
-      <li><b>Shared Layout</b>: Used this approach to handle shared components in one place, reducing code repetition, simplifying maintenance, and improving page load times.</li>
-      <li><b>Route-centric</b>: This process splits the code based on the application's routes, using <b>lazy</b> and <b>Suspense</b> to load each route's code only when needed, thus optimizing initial load times and improving overall performance.</li>
+      <li><b>Not Found Page</b>: the application handles non-existent routes by displaying this page with a <b>404</b> error message.</li>
+      <li><b>Shared Layout</b>: used this approach to handle shared components in one place, reducing code repetition, simplifying maintenance, and improving page load times.</li>
+      <li><b>Route-centric</b>: this process splits the code based on the application's routes, using <b>lazy</b> and <b>Suspense</b> to load each route's code only when needed, thus optimizing initial load times and improving overall performance.</li>
     </ul>
   </li>
   <li><b>Styling</b>: 
