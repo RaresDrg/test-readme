@@ -60,6 +60,16 @@
       <li><b>Navigation</b>: Designed to be intuitive, guiding users and clearly indicating their current location within the application.</li>
       <li><b>Loading Screen</b>: Used for the login and logout processes, providing visual feedback and improving the user's interaction with the application.</li>
       <li><b>Loading Spinner</b>: Displayed at key moments in the application, notably when awaiting server responses, providing users with real-time feedback.</li>
+      <li><b>Form Feedback</b>:
+        <ul>
+          <li><b>Placeholders</b>: Implemented to indicate the necessary data for each field, guiding users in completing the forms correctly.</li>
+          <li><b>Error Indicators</b>: Added visual effects, such as red borders and error messages, to alert users when a field is required or contains invalid data.</li>
+          <li><b>Submit Button</b>: Becomes disabled if any errors are detected, preventing the submission of incorrect data to the server.</li>
+          <li><b>Password Visibility Toggle</b>: Included a show icon for password fields, allowing users to toggle the visibility of their password, enhancing usability.</li>
+        </ul>
+      </li>
+      <li><b></b>: </li>
+      <li><b></b>: </li>
     </ul>
   </li>
 </ul>
