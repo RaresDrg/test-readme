@@ -2,15 +2,9 @@
 
 <h2>Project Links</h2>
 <ul>
-  <li>
-    <a href="https://taskpro-beryl.vercel.app">Live App</a>
-  </li>
-  <li>
-    <a href="https://www.figma.com/design/fJF13s2UlxPIwTMcPVrSiz/TaskPro">Figma Design</a>
-  </li>
-  <li>
-    <a href="https://taskpro-server-delta.vercel.app/api-docs/">API Documentation</a>
-  </li>
+  <li><a href="https://taskpro-beryl.vercel.app">Live App</a></li>
+  <li><a href="https://www.figma.com/design/fJF13s2UlxPIwTMcPVrSiz/TaskPro">Figma Design</a></li>
+  <li><a href="https://taskpro-server-delta.vercel.app/api-docs/">API Documentation</a></li>
 </ul>
 
 <h2>Description</h2>
@@ -36,25 +30,25 @@
   <li><b>Technologies</b>: React, TypeScript, Redux, Styled-components</li>
   <li><b>Project Setup</b>:
     <ul>
-      <li><b>Vite Template</b>: For a swift and efficient build process.</li>
+      <li><b>Vite Template</b>: for a swift and efficient build process.</li>
       <li><b>Deploy</b>: Vercel.</li>
-      <li><b>Type Safety</b>: Ensured by TypeScript for strict type-checking and an enhanced development experience.</li>
-      <li><b>Linting</b>: Enforcing ESLint configuration for a clean and robust codebase.</li>
+      <li><b>Type Safety</b>: ensured by TypeScript for strict type-checking and an enhanced development experience.</li>
+      <li><b>Linting</b>: enforcing ESLint configuration for a clean and robust codebase.</li>
     </ul>
   </li>
   <li><b>Code Organization:</b>: 
     <ul>
       <li><b>Module Type</b>: ECMAScript Modules (ESM).</li>
-      <li><b>Components Type</b>: Reusable functional components.</li> 
-      <li><b>Custom Hooks:</b>: Developed to encapsulate and reuse logic across different components, enhancing code maintainability.</li> 
-      <li><b>Utils:</b>: Helper functions implemented to perform common tasks, improving code readability and avoiding duplication.</li> 
+      <li><b>Components Type</b>: reusable functional components.</li> 
+      <li><b>Custom Hooks:</b>: developed to encapsulate and reuse logic across different components, enhancing code maintainability.</li> 
+      <li><b>Utils:</b>: helper functions implemented to perform common tasks, improving code readability and avoiding duplication.</li> 
     </ul>
   </li> 
   <li><b>State Management</b>:
     <ul>
-      <li><b>Redux</b>: Used for centralized state management in the application.</li>
-      <li><b>Redux Toolkit</b>: Integrated to simplify Redux configuration, by utilizing slices to modularize state logic, creating actions and reducers more efficiently, and streamlining the setup process for improved code readability and maintenance.</li>
-      <li><b>Redux Persist</b>: Implemented to persist the application state across sessions, ensuring data consistency and improving the user experience by retaining state even after page reloads.</li>
+      <li><b>Redux</b>: used for centralized state management in the application.</li>
+      <li><b>Redux Toolkit</b>: integrated to simplify Redux configuration, by utilizing slices to modularize state logic, creating actions and reducers more efficiently, and streamlining the setup process for improved code readability and maintenance.</li>
+      <li><b>Redux Persist</b>: implemented to persist the application state across sessions, ensuring data consistency and improving the user experience by retaining state even after page reloads.</li>
     </ul>
   </li>
   <li><b>API Client</b>: 
