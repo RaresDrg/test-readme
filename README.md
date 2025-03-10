@@ -58,6 +58,7 @@
   <li><b>User Experience (UX)</b>: 
     <ul>
       <li><b>Loading Screen</b>: Used for the login and logout processes, providing visual feedback and improving the user's interaction with the application.</li>
+      <li><b>Loading Spinner</b>: Activated at various points in the application, particularly when a request to the server is initiated and a response is awaited, offering real-time feedback to users.</li>
     </ul>
   </li>
 </ul>
