@@ -52,6 +52,7 @@
       <li><b>Sprite Technique</b>: Consolidated all vector icons into a single sprite file, enhancing performance by reducing server requests and improving page load times, while making icon access and management easier.</li>      
       <li><b>Themes</b>: The application supports three distinct themes: dark, light, and violet, allowing users to choose their preferred visual appearance.</li>
       <li><b>Transitions</b>: Implemented to provide smooth effects during user interactions and particularly when changing themes, maintaining consistency across various elements.</li>
+      <li><b>Animations</b>: Incorporated custom animations and animations from the <i>"animate.css"</i> library to enrich the visual appeal and create an engaging user experience.</li>
     </ul>
   </li>
 </ul>
