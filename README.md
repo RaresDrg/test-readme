@@ -91,29 +91,29 @@
   </li>
   <li><b>User Experience (UX)</b>: 
     <ul>
-      <li><b>Navigation</b>: Designed to be intuitive, guiding users and clearly indicating their current location within the application.</li>
-      <li><b>Loading Screen</b>: Used for the login and logout processes, providing visual feedback and improving the user's interaction with the application.</li>
-      <li><b>Loading Spinner</b>: Displayed at key moments in the application, notably when awaiting server responses, providing users with real-time feedback.</li>
-      <li><b>Modal Closure Options</b>: When a modal is open, it can be closed in multiple ways: by clicking the <b>"X"</b> button, by pressing the <b>"Esc"</b> key, by performing a mouse down action outside the modal, or automatically upon submitting the form within the modal and receiving a positive response from the server.</li>
+      <li><b>Navigation</b>: designed to be intuitive, guiding users and clearly indicating their current location within the application.</li>
+      <li><b>Loading Screen</b>: used for the login and logout processes, providing visual feedback and improving the user's interaction with the application.</li>
+      <li><b>Loading Spinner</b>: displayed at key moments in the application, notably when awaiting server responses, providing users with real-time feedback.</li>
+      <li><b>Modal Closure Options</b>: when a modal is open, it can be closed in multiple ways: by clicking the <b>"X"</b> button, by pressing the <b>"Esc"</b> key, by performing a mouse down action outside the modal, or automatically upon submitting the form within the modal and receiving a positive response from the server.</li>
       <li><b>Form Feedback</b>:
         <ul>
-          <li><b>Placeholders</b>: Implemented to indicate the necessary data for each field, guiding users in completing the forms correctly.</li>
-          <li><b>Error Indicators</b>: Added visual effects, such as red borders and error messages, to alert users when a field is required or contains invalid data.</li>
-          <li><b>Submit Button</b>: Becomes disabled if any errors are detected, preventing the submission of incorrect data to the server.</li>
-          <li><b>Password Visibility Toggle</b>: Included a show icon for password fields, allowing users to toggle the visibility of their password, enhancing usability.</li>
+          <li><b>Placeholders</b>: implemented to indicate the necessary data for each field, guiding users in completing the forms correctly.</li>
+          <li><b>Error Indicators</b>: added visual effects, such as red borders and error messages, to alert users when a field is required or contains invalid data.</li>
+          <li><b>Submit Button</b>: becomes disabled if any errors are detected, preventing the submission of incorrect data to the server.</li>
+          <li><b>Password Visibility Toggle</b>: included a show icon for password fields, allowing users to toggle the visibility of their password, enhancing usability.</li>
         </ul>
       </li>
-      <li><b>Notifications</b>: Utilized <i>"react-toastify"</i> library to display different types of notifications, including success, error, and warning messages, particularly when a response is received from a server request, providing immediate feedback to users.</li>
-      <li><b>Forced Logout</b>: Implemented a mechanism that, upon receiving a 401 response from the server (indicating the user is not authorized), forces a logout, requiring the user to reauthenticate.</li>
-      <li><b>Drag & Drop</b>: This feature allows users to easily move and organize cards within the application, enhancing usability and interaction efficiency.</li>
-      <li><b>Ellipsis Tooltip</b>: Using the <i>"tippy.js"</i> library to handle visually long elements by truncating them and displaying an ellipsis, which reveals the full text when users hover over it, enhancing readability.</li>
+      <li><b>Notifications</b>: utilized <i>"react-toastify"</i> library to display different types of notifications, including success, error, and warning messages, particularly when a response is received from a server request, providing immediate feedback to users.</li>
+      <li><b>Forced Logout</b>: implemented a mechanism that, upon receiving a 401 response from the server (indicating the user is not authorized), forces a logout, requiring the user to reauthenticate.</li>
+      <li><b>Drag & Drop</b>: this feature allows users to easily move and organize cards within the application, enhancing usability and interaction efficiency.</li>
+      <li><b>Ellipsis Tooltip</b>: using the <i>"tippy.js"</i> library to handle visually long elements by truncating them and displaying an ellipsis, which reveals the full text when users hover over it, enhancing readability.</li>
     </ul>
   </li>
   <li><b>Other Details</b>: 
     <ul>
-      <li><b>Forms</b>: Utilizing the <b>Formik</b> library to build forms, ensuring efficient handling and a user-friendly form management experience.</li>
-      <li><b>Data Validation</b>: Using <b>Yup</b> as a complementary library to Formik forms, ensuring robust data validation and form reliability.</li>
-      <li><b>Cloud-Based Assets</b>: Used Cloudinary to store and manage application assets like background images, enhancing performance and load times via cloud services.</li>
+      <li><b>Forms</b>: utilizing the <b>Formik</b> library to build forms, ensuring efficient handling and a user-friendly form management experience.</li>
+      <li><b>Data Validation</b>: using <b>Yup</b> as a complementary library to Formik forms, ensuring robust data validation and form reliability.</li>
+      <li><b>Cloud-Based Assets</b>: used <b>Cloudinary</b> to store and manage application assets like background images, enhancing performance and load times via cloud services.</li>
     </ul>
   </li>
 </ul>
