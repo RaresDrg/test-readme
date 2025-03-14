@@ -18,8 +18,8 @@
   <img width="10" />
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="35" alt="express logo"  /></a>
   <img width="10" />
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="35" alt="mongodb logo"  />
-<!--   <img width="10" />  -->
+  <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb logo"  />
+  <img width="10" /> 
   <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  /></a>
   <img width="10" />
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="35" alt="vercel logo"  /></a>
