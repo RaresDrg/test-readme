@@ -23,6 +23,7 @@
   <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  /></a>
   <img width="10" />
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="35" alt="vercel logo"  /></a>
+    <img width="10" />
 </div>
 
 <div align="center">
