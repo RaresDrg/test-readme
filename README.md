@@ -18,7 +18,7 @@
   <img width="10" />
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="35" alt="express logo" /></a>
   <img width="10" />
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="35" alt="mongodb logo"  />
+
      <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  /></a>
   <img width="10" />
 </div>
