@@ -34,7 +34,7 @@
 
 
 
-<a href="href="https://moneyguard-pc7y.onrender.com" align="cemter">
+<a href="href="https://moneyguard-pc7y.onrender.com" align="center">
   <img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776815304/TEST_6_ukkqz8.png'> 
 </a>
 
