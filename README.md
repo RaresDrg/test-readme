@@ -2,9 +2,6 @@
 <br>
  
 <div align='center'>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://res.cloudinary.com/db73szjbz/image/upload/html-icon" height="35" />
-  </a>
   <img src="https://res.cloudinary.com/db73szjbz/image/upload/html-icon" height="35" />
   <img src="https://res.cloudinary.com/db73szjbz/image/upload/css-icon" height="35" />
   <img src="https://res.cloudinary.com/db73szjbz/image/upload/js-icon" height="35" />
