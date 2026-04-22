@@ -1,5 +1,7 @@
 <h1 align='center'><b>MoneyGuard</b></h1>
 <br>
+
+<h1 align='center'>MoneyGuard</h1>
  
 <div align='center'>
   <img src="https://res.cloudinary.com/db73szjbz/image/upload/html-icon" height="35" />
