@@ -284,3 +284,16 @@
     <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/v1776816622/test_7_nicye1.png'>
   </a>
 </div>
+
+<div align="center">
+  <a href="https://moneyguard-pc7y.onrender.com" target="_blank">
+    <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/v1776816749/logo_25_sjcecm.png'>
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="https://moneyguard-pc7y.onrender.com" target="_blank">
+    <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/v1776816751/logo_26_jo3pej.png'>
+  </a>
+</div>
