@@ -1,4 +1,5 @@
 <h1 align='center'>MoneyGuard</h1>
+<p style="font-size: 32px; font-weight: bold;" align='center'>MoneyGuard</p>
 <br>
  
 <div align='center'>
