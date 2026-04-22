@@ -1,4 +1,5 @@
 <h1 align='center'>MoneyGuard</h1>
+<p height="30" align='center'>MoneyGuard</p>
 <br>
  
 <div align='center'>
