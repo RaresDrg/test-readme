@@ -26,19 +26,11 @@
 </div>
 
 
-<img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776814426/test_xuqe4p.png'>
-<img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776814706/test_2_bothcs.png'>
-<img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776814982/TEST_4_eyjrya.png'>
-<img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776815198/TEST_5_k1xwyw.png'>
-<img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776815304/TEST_6_ukkqz8.png'>  
 
 
 
-<div align="center">
-  <a href="https://moneyguard-pc7y.onrender.com" target="_blank">
-    <img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776815304/TEST_6_ukkqz8.png'>
-  </a>
-</div>
+
+
 
 
 <div align="center">
@@ -272,5 +264,11 @@
 <div align="center">
    <a align="center" href="https://taskpro-beryl.vercel.app/">
     <img height="40" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741641782/TaskPro/assets/logo/vuyvdwiaxcoaj9po4uv8.png"  />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://moneyguard-pc7y.onrender.com" target="_blank">
+    <img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776815304/TEST_6_ukkqz8.png'>
   </a>
 </div>
