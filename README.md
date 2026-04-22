@@ -289,3 +289,11 @@
       src='https://res.cloudinary.com/db73szjbz/image/upload/v1776817125/test_1_uwmdnz.png'>
   </a>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/logo">
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/logo-gradient">
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/UPTIME.ROBOT" alt="icon">
+</picture>
+
