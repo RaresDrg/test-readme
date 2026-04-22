@@ -268,25 +268,13 @@
 </div>
 
 <br>
-
 <div align="center">
   <a href="https://moneyguard-pc7y.onrender.com">
-    <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/v1776817125/test_1_uwmdnz.png'>
+    <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/logo-gradient'>
   </a>
 </div>
 <br>
 
-<div align="center">
-  <a href="https://moneyguard-pc7y.onrender.com">
-    <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/v1776817522/test_3_jiluu9.png'>
-  </a>
-</div>
-<br>
 
-<div align="center">
-  <a href="https://moneyguard-pc7y.onrender.com">
-    <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/v1776817464/test_2_rt3awp.png'>
-  </a>
-</div>
 
 
