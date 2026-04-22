@@ -2,25 +2,29 @@
 <br>
  
 <div align='center'>
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/HTML" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/CSS" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/JS" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/TS" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REACT" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REDUX" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/NODE.JS" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/EXPRESS.JS" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/MONGO.DB" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REST.API" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/SWAGGER" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/POSTMAN" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/FIGMA" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/VITE" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/ESLINT" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/CLOUDINARY" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/RESEND" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/UPTIME.ROBOT" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/RENDER" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/html-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/css-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/js-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/ts-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/react-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/redux-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/node.js-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/express.js-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/mongo.db-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/swagger-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/postman-icon" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/cloudinary-icon" height="35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-white">
+    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black">
+    <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
+  </picture>
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/uptime.robot-icon" height="35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/render-icon-white">
+    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/render-icon-black">
+    <img src="https://res.cloudinary.com/db73szjbz/image/upload/render-icon-black" height="35">
+  </picture>
 </div>
 <br>
 
