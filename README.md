@@ -1,280 +1,291 @@
-<h1>𝐓𝐚𝐬𝐤𝐏𝐫𝐨 - FullStack App</h1>
-<div align="center"> 
-  <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  /></a>
-  <img width="10" />
-  <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  /></a>
-  <img width="10" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  /></a>
-  <img width="10" />
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  /></a>
-  <img width="10" />
-  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  /></a>
-  <img width="10" />
-  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux logo"  /></a>
-  <img width="10" />
-  <a href="https://styled-components.com/"><img src="https://skillicons.dev/icons?i=styledcomponents" height="35" alt="styledcomponents logo"  /></a>
-  <img width="10" />
-  <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  /></a>
-  <img width="10" />
-  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="35" alt="express logo"  /></a>
-  <img width="10" />
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="35" alt="mongodb logo"  /></a>
-  <img width="10" />
-  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  /></a>
-  <img width="10" />
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="35" alt="vercel logo"  /></a>
-</div>
-
-
-
-
-
-
-
-
-
-<div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  /></a>
-  <img width="10" />
-  <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  /></a>
-  <img width="10" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  /></a>
-  <img width="10" />
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  /></a>
-  <img width="10" />
-  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  /></a>
-  <img width="10" />
-  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux logo"  /></a>
-  <img width="10" />
-  <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  /></a>
-  <img width="10" />
-  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="35" alt="express logo"  /></a>
-  <img width="10" />
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="35" alt="mongodb logo"  />
+<h1 align='center'><b>MoneyGuard</b></h1>
+<br>
+ 
+<div align='center'>
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/HTML" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/CSS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/JS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/TS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REACT" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REDUX" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/NODE.JS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/EXPRESS.JS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/MONGO.DB" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REST.API" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/SWAGGER" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/POSTMAN" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/FIGMA" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/VITE" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/ESLINT" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/CLOUDINARY" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/RESEND" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/UPTIME.ROBOT" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/RENDER" height="35" />
 </div>
 <br>
 
-
 <h2>Project Links</h2>
 <ul>
-  <li><a href="https://taskpro-beryl.vercel.app">Live App</a></li>
-  <li><a href="https://www.figma.com/design/fJF13s2UlxPIwTMcPVrSiz/TaskPro">Figma Design</a></li>
-  <li><a href="https://taskpro-server-delta.vercel.app/api-docs/">API Documentation</a></li>
+  <li>
+    <a href="https://moneyguard-pc7y.onrender.com">Live App</a>
+  </li>
+  <li>
+    <a href="https://www.figma.com/design/b6yYlOxhk4hUJyrytJUjEs/Money-Guard--International-">Figma Design</a>
+  </li>
+  <li>
+    <a href="https://moneyguard-server.onrender.com/api-docs">API Documentation</a>
+  </li>
 </ul>
 
 <h2>Description</h2>
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>TaskPro</b> is an intuitive Kanban board application designed to help users organize and manage their projects and tasks efficiently. Inspired by tools like Trello or Jira, TaskPro offers a seamless experience for tracking progress and staying productive, ensuring that deadlines are never missed.
-</p>
+<div>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <b>MoneyGuard</b>
+  <span>
+    is a full‑stack application that helps users keep their personal budgeting simple and organized. Its clean and modern interface provides a smooth experience for tracking daily transactions, understanding spending behavior, and staying updated on the current account balance.
+  </span>
+</div>
 
 <h2>Features</h2>
 <ul>
-  <li><b>User Authentication</b>: securely create an account and log in, or use Google authentication for quick access to your personal workspace.</li>
-  <li><b>Password Recovery</b>: easily reset the account password by entering your email and receiving a reset link directly to your inbox.</li>
-  <li><b>Customer Support</b>: get in touch with our support team by filling out a form with your comment and sending it directly for prompt assistance.</li>
-  <li><b>Edit Profile</b>: customize your profile by updating your name, email, and optionally adding a profile picture.</li>
-  <li><b>Select Theme</b>: choose from three available themes: light, dark, or violet, to personalize your application's appearance.</li>
-  <li><b>Project Management</b>: create, update, and delete boards, which will be organized in a list for easy selection.</li>
-  <li><b>Column Management</b>: configure each board by creating, updating, and deleting columns for optimal structure and making it easier to organize tasks into different categories.</li>
-  <li><b>Card Management</b>: create, update, and delete cards within columns to represent tasks that include essential information such as name, description, priority, and deadline.</li>
-  <li><b>Filtering</b>: select the priority level to display only those cards that match the chosen priority, making it easier to focus on the desired tasks.</li>
+  <li>
+    <b>User Authentication</b>
+    <span>—</span>
+    <span>
+      account creation, secure login, and optional Google authentication for quick access.
+    </span>
+  </li>
+  <li>
+    <b>Password Recovery</b>
+    <span>—</span>
+    <span>
+       easy password reset through a secure email recovery link.
+    </span>
+  </li>
+  <li>
+    <b>Transaction Management</b>
+    <span>—</span>
+    <span>
+      adding, editing, and deleting transactions directly from the dashboard.
+    </span>
+  </li>
+  <li>
+    <b>Real‑Time Balance</b>
+    <span>—</span>
+    <span>
+      automatic balance updates after transaction changes.
+    </span>
+  </li>
+  <li>
+    <b>Statistical Insights</b>
+    <span>—</span>
+    <span>
+      monthly breakdown of transactions, highlighting expense distribution across categories and overall financial totals.
+    </span>
+  </li>
+  <li>
+    <b>Currency Conversion</b>
+    <span>—</span>
+    <span>
+      instant conversion of foreign amounts into USD, using daily‑updated exchange rates.
+    </span>
+  </li>
 </ul>
 
 <h2>Frontend</h2>
 <ul>
-  <li><b>Technologies</b>: React, TypeScript, Redux, Styled-components</li>
-  <li><b>Project Setup</b>:
-    <ul>
-      <li><b>Vite Template</b>: for a swift and efficient build process.</li>
-      <li><b>Deploy</b>: Vercel.</li>
-      <li><b>Type Safety</b>: ensured by TypeScript for strict type-checking and an enhanced development experience.</li>
-      <li><b>Linting</b>: enforcing ESLint configuration for a clean and robust codebase.</li>
-    </ul>
+  <li>
+    <b>Technologies</b>
+    <span>—</span>
+    <span>React, TypeScript, Redux Toolkit, Styled Components</span>
   </li>
-  <li><b>Code Organization:</b>: 
+  <li>
+    <b>Deploy</b>
     <ul>
-      <li><b>Module Type</b>: ECMAScript Modules (ESM).</li>
-      <li><b>Components Type</b>: reusable functional components.</li> 
-      <li><b>Custom Hooks:</b>: developed to encapsulate and reuse logic across different components, enhancing code maintainability.</li> 
-      <li><b>Utils:</b>: helper functions implemented to perform common tasks, improving code readability and avoiding duplication.</li> 
-    </ul>
-  </li> 
-  <li><b>State Management</b>:
-    <ul>
-      <li><b>Redux</b>: used for centralized state management in the application.</li>
-      <li><b>Redux Toolkit</b>: integrated to simplify Redux configuration, by utilizing slices to modularize state logic, creating actions and reducers more efficiently, and streamlining the setup process for improved code readability and maintenance.</li>
-      <li><b>Redux Persist</b>: implemented to persist the application state across sessions, ensuring data consistency and improving the user experience by retaining state even after page reloads.</li>
-    </ul>
-  </li>
-  <li><b>API Client</b>: 
-    <ul>
-      <li>Created a custom <b>"Axios"</b> instance to encapsulate the configuration and logic, ensuring consistency and reusability across the application.</li>
-      <li>Configured to handle HTTP requests to the server, with a base URL and credentials included.</li>
-      <li>Implemented <b>response interceptors</b> to manage authentication errors, initiating a forced logout for user reauthentication when a <b>401 Unauthorized</b> response occurs.</li>
-    </ul>
-  </li>
-  <li><b>Routing </b>:
-    <ul>
-      <li>Depending on the user's <b>authentication status</b>, the application routes are accessible as follows: 
-        <ul>
-          <li><b>Restricted Routes</b>: can only be accessed when the user is not authenticated.</li>
-          <li><b>Protected Routes</b>: can only be accessed when the user is authenticated.</li>
-        </ul>
+      <li>
+        Render — hosting for the frontend as a static site.
       </li>
-      <li><b>Not Found Page</b>: the application handles non-existent routes by displaying this page with a <b>404</b> error message.</li>
-      <li><b>Shared Layout</b>: used this approach to handle shared components in one place, reducing code repetition, simplifying maintenance, and improving page load times.</li>
-      <li><b>Route-centric</b>: this process splits the code based on the application's routes, using <b>lazy</b> and <b>Suspense</b> to load each route's code only when needed, thus optimizing initial load times and improving overall performance.</li>
-    </ul>
-  </li>
-  <li><b>Styling</b>: 
-    <ul>
-      <li><b>Styled-components</b>: used for writing isolated styles for each component, ensuring clean and maintainable code, including automatic prefixing for cross-browser compatibility, theming management, dynamic styling through props, and nested syntax.</li>
-      <li><b>Cross-Browser Compatibility</b>: ensured through the use of <i>"modern-normalize"</i> and custom reset properties, providing consistent rendering across different browsers.</li>    
-      <li><b>Responsive Design</b>:
-        <ul>
-          <li>Applied through a <b>mobile-first approach</b>, ensuring the application is optimized for mobile devices first.</li>
-          <li>Using media queries and flexible layouts to adapt the design effectively to various devices and screen dimensions.</li>
-          <li>Using <i>"react-responsive"</i> library, which conditionally renders components based on the size of the viewport.</li>
-          <li>Utilized responsive images and backgrounds, with dimensions and versions tailored to ensure optimal visual experience across different screen sizes and pixel densities - <b>Retina display support</b>.</li>
-        </ul>
+      <li>
+        API proxy forwards all <code>/api</code> requests to the backend, ensuring same‑origin communication and preventing third‑party cookie issues.
       </li>
-      <li><b>Sprite Technique</b>: consolidated all vector icons into a single sprite file, enhancing performance by reducing server requests and improving page load times, while making icon access and management easier.</li>      
-      <li><b>Themes</b>: the application supports three distinct themes: dark, light, and violet, allowing users to choose their preferred visual appearance.</li>
-      <li><b>Transitions</b>: implemented to provide smooth effects during user interactions and particularly when changing themes, maintaining consistency across various elements.</li>
-      <li><b>Animations</b>: incorporated custom animations and animations from the <i>"animate.css"</i> library to enrich the visual appeal and create an engaging user experience.</li>
-    </ul>
-  </li>
-  <li><b>User Experience (UX)</b>: 
-    <ul>
-      <li><b>Navigation</b>: designed to be intuitive, guiding users and clearly indicating their current location within the application.</li>
-      <li><b>Loading Screen</b>: used for the login and logout processes, providing visual feedback and improving the user's interaction with the application.</li>
-      <li><b>Loading Spinner</b>: displayed at key moments in the application, notably when awaiting server responses, providing users with real-time feedback.</li>
-      <li><b>Modal Closure Options</b>: when a modal is open, it can be closed in multiple ways: by clicking the <b>"X"</b> button, by pressing the <b>"Esc"</b> key, by performing a mouse down action outside the modal, or automatically upon submitting the form within the modal and receiving a positive response from the server.</li>
-      <li><b>Form Feedback</b>:
-        <ul>
-          <li><b>Placeholders</b>: implemented to indicate the necessary data for each field, guiding users in completing the forms correctly.</li>
-          <li><b>Error Indicators</b>: added visual effects, such as red borders and error messages, to alert users when a field is required or contains invalid data.</li>
-          <li><b>Submit Button</b>: becomes disabled if any errors are detected, preventing the submission of incorrect data to the server.</li>
-          <li><b>Password Visibility Toggle</b>: included a show icon for password fields, allowing users to toggle the visibility of their password, enhancing usability.</li>
-        </ul>
+      <li>
+        SPA rewrite rules redirect all routes to <code>/index.html</code>, supporting client‑side routing.
       </li>
-      <li><b>Notifications</b>: utilized <i>"react-toastify"</i> library to display different types of notifications, including success, error, and warning messages, particularly when a response is received from a server request, providing immediate feedback to users.</li>
-      <li><b>Forced Logout</b>: implemented a mechanism that, upon receiving a 401 response from the server (indicating the user is not authorized), forces a logout, requiring the user to reauthenticate.</li>
-      <li><b>Drag & Drop</b>: this feature allows users to easily move and organize cards within the application, enhancing usability and interaction efficiency.</li>
-      <li><b>Ellipsis Tooltip</b>: using the <i>"tippy.js"</i> library to handle visually long elements by truncating them and displaying an ellipsis, which reveals the full text when users hover over it, enhancing readability.</li>
     </ul>
   </li>
-  <li><b>Other Details</b>: 
+  <li>
+    <b>Setup</b>
     <ul>
-      <li><b>Forms</b>: utilizing the <b>Formik</b> library to build forms, ensuring efficient handling and a user-friendly form management experience.</li>
-      <li><b>Data Validation</b>: using <b>Yup</b> as a complementary library to Formik forms, ensuring robust data validation and form reliability.</li>
-      <li><b>Cloud-Based Assets</b>: used <b>Cloudinary</b> to store and manage application assets like background images, enhancing performance and load times via cloud services.</li>
+      <li>
+         Vite — provides fast project setup and optimized production builds.  
+      </li>
+      <li>
+        TypeScript Config — enforces strict type‑checking and improves project stability.
+      </li>
+      <li>
+        ESLint Config — maintains reliable linting rules and consistent code quality.
+      </li>
+      <li>
+        Prettier — ensures uniform formatting across the entire codebase.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>Architecture</b>
+    <ul>
+      <li>
+        The architecture follows a clean, modular structure with a clear separation of concerns across the application.
+      </li>
+      <li>
+        Core layers are organized using a feature‑based folder approach, keeping related functionality grouped in a predictable and intuitive way.
+      </li>
+      <li>
+        Barrel files centralize exports, ensuring consistent and straightforward access to modules within the project.
+      </li>
+      <li>
+        Global UI elements — modals, loaders, notifications — are mounted through dedicated portal roots to avoid interfering with the main layout, and they operate independently from the route‑level rendering tree.
+      </li>
+      <li>
+        Responsive Context — a global context exposes device type and pixel density, allowing components to adapt layout, assets, and behavior dynamically.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>UX & Accessibility</b>
+    <ul>
+      <li>
+        LQIP Approach — blurred low‑quality previews improve perceived loading speed and provide a smoother visual transition.
+      </li>
+      <li>
+        Loading indicators integrated throughout the interface clarify ongoing processes and keep the experience predictable.
+      </li>
+      <li>
+        Notifications deliver immediate feedback for key user actions, helping maintain clarity and reducing uncertainty.
+      </li>
+      <li>
+        Transitions shape a smoother interaction flow and keep the interface fluid and natural.
+      </li>
+      <li>
+        Animations enhance visual perception and make interactions feel more dynamic and engaging.
+      </li>
+      <li>
+        Semantic roles and live regions are applied across the interface to ensure proper announcements and accessible navigation for assistive technologies.
+      </li>
+      <li>
+        Keyboard navigation is fully supported, with clear focus-visible states that keep interactions predictable and accessible.
+      </li>
+      <li>
+        Modal interactions follow accessible patterns, including controlled focus behavior, consistent dismissal rules, and full isolation from the underlying layout.
+      </li>
+      <li>
+        Form behavior provides a clear and guided submission flow, helping users enter information confidently while the interface manages validation, limits, and action availability.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>UI & Styling</b>
+    <ul>
+      <li>
+        Styling is managed with styled‑components, providing predictable behavior, clean component structure, and scoped styles. 
+      </li>
+      <li>
+        Cross‑browser compatibility is achieved through modern‑normalize, custom reset rules, and manual vendor prefixes for consistent rendering across browsers.
+      </li>
+      <li>
+        Responsive Design — built on a mobile‑first foundation, the interface adapts seamlessly across devices and screen sizes.
+      </li>
+      <li>
+         Responsive Assets — images are served in 1x/2x resolutions and breakpoint‑specific variants for optimal visual quality on all displays.
+      </li>
+      <li>
+        Images are manually optimized with Squoosh, converted to modern WebP formats, and compressed to achieve a balanced quality–size ratio.
+      </li>
+      <li>
+        Videos are processed with HandBrake and re‑encoded using H.264 to ensure reduced file size and reliable cross‑browser playback.
+      </li>
+      <li>
+        Media Delivery — all media assets are delivered through Cloudinary, benefiting from automatic format optimization, smart compression, and CDN‑level performance.
+      </li>
+      <li>
+        Sprite Technique — all vector icons are consolidated into a single SVG sprite to reduce network requests and keep icon management consistent and efficient.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>Routing</b>
+    <ul>
+      <li>
+        The project runs as a Single Page Application, with React Router managing all client‑side navigation.
+      </li>
+      <li>
+        Restricted Routes — pages accessible only when the user is not authenticated, with a redirect guard preventing access once a session is active.
+      </li>
+      <li>
+        Protected Routes — core application pages become available only after authentication, and unauthorized access is automatically redirected to the login flow.
+      </li>
+      <li>
+        Fallback Route — any unmatched path is routed to a dedicated Not Found page, ensuring consistent handling of invalid URLs.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>State Management</b>
+    <ul>
+      <li>
+        Redux — manages the application’s global state in a centralized way.
+      </li>
+      <li>
+        Redux Toolkit — simplifies the Redux setup with slice‑based logic and reduced boilerplate.
+      </li>
+      <li>
+        Redux Persist — persists the application state across sessions and page reloads.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>API Layer</b>
+    <ul>   
+      <li>
+        The API layer operates through an Axios instance that handles all backend requests, configured with a baseURL and credential support for authenticated communication.
+      </li>
+      <li>
+        Request Interceptor — looks for a session token in session storage and, if present, includes it in the Authorization header as a Bearer token.
+      </li>
+      <li>
+        Response Interceptor — stores the session token if the server returns one and triggers an automatic logout when a 401 error occurs.
+      </li>
+      <li>
+        Session Logic — the server issues secure HTTP‑Only cookies to handle authentication and assigns each browser tab a unique session identifier, ensuring a single active session per user and proper isolation across tabs.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>Other Details</b>
+    <ul>
+      <li>
+        Local caching applies user ownership and TTL‑based invalidation to maintain fresh, isolated, and reliable client‑side data.
+      </li>
+      <li>
+        Font and media delivery are optimized through preconnect and DNS-prefetch directives, reducing latency for Google Fonts and Cloudinary assets.
+      </li>
     </ul>
   </li>
 </ul>
 
 <h2>Backend</h2>
 <ul>
-  <li><b>Technologies</b>: Node.js, Express, TypeScript</li>
-  <li><b>Database</b>: MongoDB</li>
-  <li><b>Object Data Modeling</b>: Mongoose</li>
-  <li><b>Tools</b>: Postman, MongoDB Atlas, MongoDB Compass, Google Cloud Platform, Cloudinary</li>
-  <li><b>REST API</b></li>
-  <li><b>Project Setup</b>: 
-    <ul>
-      <li><b>Module Type</b>: ECMAScript Modules (ESM)</li>
-      <li><b>Deploy</b>: Vercel</li>
-      <li><b>Type Safety</b>: ensured by TypeScript for a more reliable and maintainable codebase.</li>
-      <li><b>Linting</b>: ESLint Configuration for a clean and robust codebase.</li>
-      <li><b>Environment Variables</b>: managed using <b>Dotenv</b> for secure configuration of sensitive information.</li>
-      <li><b>Nodemon</b>: automatically restarts the server upon detecting changes in source files, enhancing development experience.</li>
-    </ul>
-  </li>
-  <li><b>Authentication</b>:
-    <ul>   
-      <li><b>Methods</b>:
-        <ol type="1">
-          <li><b>Register / Login</b>: using user credentials</li>
-          <li><b>Google OAuth</b>: using user Google account</li>
-        </ol>
-      </li>
-      <li><b>Upon successful authentication</b>:
-        <ul>
-          <li><b>Token pair generation</b>:
-            <ul>
-              <li><b>Access Token</b>: JSON Web Token (JWT) with a lifespan of 15 minutes</li>
-              <li><b>Refresh Token</b>: Random bytes token, created using crypto, securely stored in the database</li>
-            </ul>
-          </li>
-          <li><b>Server-Side Cookies Response</b>: 
-            <ul>
-              <li><b>accessToken Cookie</b>: valid for 15 minutes</li>
-              <li><b>refreshToken Cookie</b>: valid for 24 hours</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li><b>Authorization</b>: in order to access protected routes and private resources, requests must pass through an <b>authorization layer</b> represented by the jwtAuthMiddleware.</li>
-  <li><b>Middleware</b>:
-    <ul>
-      <li><b>jwtAuthMiddleware</b>: 
-        <ul>
-          <li>Uses the <b>"passport-jwt strategy"</b> to decode the JSON Web Token (JWT) from the accessToken Cookie and search for the user in the database.</li>
-          <li>If the accessToken is expired, the middleware attempts to use the refreshToken from the refreshToken Cookie, to find the user.</li>
-          <li>If the user is found using the refreshToken, the token pair is regenerated, and access to the route is granted.</li>
-          <li>If neither accessToken nor refreshToken are valid, access to the route is denied, and a <b>401</b> response is sent.</li>
-        </ul>
-      </li>
-      <li><b>googleAuthMiddleware</b>: 
-        <ul>
-          <li>Uses the <b>"passport-google-oauth20 strategy"</b> to handle user authentication through Google.</li>
-          <li>Searches for the user in the database based on the information received from Google.</li>
-          <li>If the user doesn't exist, it creates a new user with the provided details.</li>
-        </ul>
-      </li>
-      <li><b>cookieParserMiddleware</b>: uses the "cookie-parser" library to parse cookies from client requests.</li>    
-      <li><b>validateTokenMiddleware</b>: checks the validation token, which can be used in two scenarios: Google authentication process and password reset procedure.</li>
-      <li><b>multipartMiddleware</b>: uses the "multer" library to manage multipart/form-data.</li>
-      <li><b>corsMiddleware</b>: uses the "cors" library to allow secure cross-origin requests exclusively from the client's application.</li>
-      <li><b>loggerMiddleware</b>: uses the "morgan" library to provide logging for HTTP requests and responses, enhancing debugging and monitoring processes.</li>
-      <li><b>missingRouteMiddleware</b>: handles missing routes by sending a <b>404</b> response with a "API route not found" message.</li>
-      <li><b>errorMiddleware</b>: captures all errors from the code and sends appropriate responses based on the error type.</li>
-    </ul>
-  </li>
-  <li><b>Other Details</b>:
-    <ul>
-      <li><b>Bcrypt</b>: provides secure hashing of passwords to protect user credentials.</li>
-      <li><b>Cloudinary</b>: ensures the secure upload and storage of user profile pictures in the cloud, generating a link to the resource.</li>
-      <li><b>Nodemailer</b>: sends confirmation emails to users after receiving support inquiries and handles sending password reset links.</li>
-      <li><b>Swagger</b>: used to document and test the API endpoints interactively.</li>
-      <li><b>Data Validation</b>:
-        <ul>
-          <li><b>Request Validation</b>: uses <b>Joi</b> library as the first layer to validate received data, ensuring it meets the required format and constraints.</li>
-          <li><b>Database Validation</b>: Uses Mongoose Schema validation as the second layer to enforce data integrity and constraints when storing data in MongoDB.</li>
-        </ul>
-      </li>
-    </ul>
+  <li>
+    <b>Technologies</b>
+    <span>—</span>
+    <span>Node.js, Express, TypeScript</span>
   </li>
 </ul>
 
 <br>
 <div align="center">
-   <a align="center" href="https://taskpro-beryl.vercel.app/">
-    <img height="40" src="https://res.cloudinary.com/db73szjbz/image/upload/v1741641782/TaskPro/assets/logo/vuyvdwiaxcoaj9po4uv8.png"  />
-  </a>
-</div>
-
-<br>
-<div align="center">
   <a href="https://moneyguard-pc7y.onrender.com">
-    <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/logo-gradient'>
+    <img 
+      height="80" 
+      src='https://res.cloudinary.com/db73szjbz/image/upload/v1776817125/test_1_uwmdnz.png'>
   </a>
 </div>
-<br>
-
-
-
-
