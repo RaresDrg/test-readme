@@ -291,9 +291,13 @@
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo-gradient.png">
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo-gradient.png" width="80">
-</picture>
+<div>
+  <a href="https://moneyguard-pc7y.onrender.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo">
+      <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo-gradient">
+      <img src="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo-gradient" alt="icon">
+    </picture>
+  </a>
+</div>
 
