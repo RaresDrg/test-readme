@@ -269,6 +269,6 @@
 
 <div align="center">
   <a href="https://moneyguard-pc7y.onrender.com" target="_blank">
-    <img src='https://res.cloudinary.com/db73szjbz/image/upload/v1776815304/TEST_6_ukkqz8.png'>
+    <img height="100" src='https://res.cloudinary.com/db73szjbz/image/upload/v1776815304/TEST_6_ukkqz8.png'>
   </a>
 </div>
