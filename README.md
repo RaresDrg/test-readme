@@ -284,15 +284,6 @@
 <br>
 <div align="center">
   <a href="https://moneyguard-pc7y.onrender.com">
-    <img 
-      height="80" 
-      src='https://res.cloudinary.com/db73szjbz/image/upload/v1776817125/test_1_uwmdnz.png'>
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="https://moneyguard-pc7y.onrender.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo">
       <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo-gradient">
@@ -300,4 +291,3 @@
     </picture>
   </a>
 </div>
-
