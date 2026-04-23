@@ -28,10 +28,6 @@
 </div>
 <br>
 
-
-
-
-
 <h2>Project Links</h2>
 <ul>
   <li>
@@ -299,49 +295,3 @@
     </picture>
   </a>
 </div>
-
-
-<br>
-<div align='center'>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <picture>
-      <img src="https://res.cloudinary.com/db73szjbz/image/upload/html-icon" height="35" />
-    </picture>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-     <img src="https://res.cloudinary.com/db73szjbz/image/upload/css-icon" height="35" />
-  </a>
-
- <a>
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
-</a>
-
-<a href="https://resend.com/">
-  <picture>
-    <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
-  </picture>
-</a>
- 
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/js-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/ts-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/react-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/redux-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/node.js-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/express.js-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/mongo.db-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/swagger-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/postman-icon" height="35" />
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/cloudinary-icon" height="35" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-white">
-    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black">
-    <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
-  </picture>
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/uptime.robot-icon" height="35" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/render-icon-white">
-    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/render-icon-black">
-    <img src="https://res.cloudinary.com/db73szjbz/image/upload/render-icon-black" height="35">
-  </picture>
-</div>
-
