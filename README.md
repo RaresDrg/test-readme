@@ -50,6 +50,7 @@
     is a full‑stack application that helps users keep their personal budgeting simple and organized. Its clean and modern interface provides a smooth experience for tracking daily transactions, understanding spending behavior, and staying updated on the current account balance.
   </span>
 </div>
+<br>
 
 <h2>Features</h2>
 <ul>
@@ -96,6 +97,7 @@
     </span>
   </li>
 </ul>
+<br>
 
 <h2>Frontend</h2>
 <ul>
@@ -276,6 +278,7 @@
     </ul>
   </li>
 </ul>
+<br>
 
 <h2>Backend</h2>
 <ul>
