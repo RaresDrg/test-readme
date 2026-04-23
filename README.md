@@ -28,13 +28,16 @@
 </div>
 <br>
 
+<a>
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
+</a>
+
 <a href="https://resend.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-white">
-    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black">
     <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
   </picture>
 </a>
+
 
 
 <h2>Project Links</h2>
