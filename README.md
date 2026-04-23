@@ -284,21 +284,14 @@
     <span>Node.js, Express, TypeScript</span>
   </li>
 </ul>
-
 <br>
+
 <div align="center">
   <a href="https://moneyguard-pc7y.onrender.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo">
       <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo-gradient">
-      <img src="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo" height="80">
-    </picture>
-  </a>
-  <a href="https://moneyguard-pc7y.onrender.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo">
-      <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/db73szjbz/image/upload/logo_5_kf00il">
-      <img src="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo" height="80">
+      <img src="https://res.cloudinary.com/db73szjbz/image/upload/moneyguard-logo-gradient" height="80">
     </picture>
   </a>
 </div>
