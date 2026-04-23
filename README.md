@@ -28,15 +28,7 @@
 </div>
 <br>
 
-<a>
-  <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
-</a>
 
-<a href="https://resend.com/">
-  <picture>
-    <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
-  </picture>
-</a>
 
 
 
@@ -312,11 +304,24 @@
 <br>
 <div align='center'>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://res.cloudinary.com/db73szjbz/image/upload/html-icon" height="35" />
+    <picture>
+      <img src="https://res.cloudinary.com/db73szjbz/image/upload/html-icon" height="35" />
+    </picture>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
      <img src="https://res.cloudinary.com/db73szjbz/image/upload/css-icon" height="35" />
   </a>
+
+ <a>
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
+</a>
+
+<a href="https://resend.com/">
+  <picture>
+    <img src="https://res.cloudinary.com/db73szjbz/image/upload/resend-icon-black" height="35">
+  </picture>
+</a>
+ 
   <img src="https://res.cloudinary.com/db73szjbz/image/upload/js-icon" height="35" />
   <img src="https://res.cloudinary.com/db73szjbz/image/upload/ts-icon" height="35" />
   <img src="https://res.cloudinary.com/db73szjbz/image/upload/react-icon" height="35" />
