@@ -1,8 +1,4 @@
 <h1 align='center'>MoneyGuard</h1>
-<p align="center" style="font-size: 32px; font-weight: bold; margin: 0;">
-  MoneyGuard
-</p>
-Asta îți dă:
 <br>
  
 <div align='center'>
