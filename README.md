@@ -40,6 +40,7 @@
     <a href="https://moneyguard-server.onrender.com/api-docs">API Documentation</a>
   </li>
 </ul>
+<br>
 
 <h2>Description</h2>
 <div>
