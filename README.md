@@ -106,9 +106,7 @@
 <div>
   <div>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾</span>
-    <a href="https://github.com/RaresDrg/MoneyGuard">
-      <b>MoneyGuard</b>
-    </a>
+    <a href="https://github.com/RaresDrg/MoneyGuard"><b>MoneyGuard</b></a>
     <span>—</span>
     <span>React, TypeScript, Node.js, Express, MongoDB</span>
   </div>
