@@ -129,7 +129,5 @@
     You can find various ways to connect with me at the following link:
   </span>
   <span>🌐</span>
-  <a href="https://linktr.ee/Rares_Dragan">
-    <b>https://linktr.ee/Rares_Dragan</b>
-  </a> 
+  <a href="https://linktr.ee/Rares_Dragan"><b>https://linktr.ee/Rares_Dragan</b></a> 
 </div>
