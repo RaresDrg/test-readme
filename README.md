@@ -52,9 +52,6 @@
     <img src="https://res.cloudinary.com/db73szjbz/image/upload/express.js-icon" height="35" />
   </picture>
   <picture>
-    <img src="https://res.cloudinary.com/db73szjbz/image/upload/node.js-icon" height="35" />
-  </picture>
-  <picture>
     <img src="https://res.cloudinary.com/db73szjbz/image/upload/mongo.db-icon" height="35" />
   </picture>
 </div>
