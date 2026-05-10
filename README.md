@@ -117,7 +117,7 @@
 <div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>
-    I’m ready to take the next step in my career by joining a forward‑thinking company where I can contribute my skills, grow consistently, and help build impactful products. I’m looking for a workplace that values innovation, collaboration, and mutual respect.
+    I’m ready to take the next step in my career by joining a company where I can contribute my skills, grow consistently, and help build high‑quality products.
   </span>
 </div>
 <br>
@@ -126,7 +126,7 @@
 <div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>
-    I’m ready to take the next step in my career by joining a company where I can contribute my skills, grow consistently, and help build impactful products. I value workplaces built on collaboration and mutual respect.
+    I’m ready to take the next step in my career by joining a company where I can contribute my skills and help build high‑quality products while continuing to improve as a developer.
   </span>
 </div>
 <br>
