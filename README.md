@@ -6,19 +6,19 @@
   <p>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋</span>
     <span>
-      Hello! My name is Rares Dragan, and I'm an enthusiastic <b>full-stack developer</b> with a passion for crafting engaging and innovative web experiences.
-    </span> 
+       Hi, I'm Rares Dragan — an enthusiastic <b>full-stack developer</b> with a passion for crafting engaging and meaningful web experiences.
+    </span>
   </p>
   <p>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👣</span>
     <span>
-      My journey into the IT field began in 2023, when I enrolled in a comprehensive course that introduced me to the fundamentals of <b>front‑end development</b> and later to <b>back‑end technologies</b>, giving me a solid understanding of both the visual and server‑side aspects of web applications.
+      I started my IT journey by completing a course that gave me a solid understanding of both the visual and server‑side aspects of web applications.
     </span>
   </p>
   <p>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀</span>
     <span>
-      Since then, I've committed myself to continuous learning and improvement, aiming to strengthen my skills and expand my capabilities as a developer.
+      From there, I've kept pushing forward — building projects, exploring new technologies, and growing with every line of code.
     </span> 
   </p>
 </div>
