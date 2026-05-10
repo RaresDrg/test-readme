@@ -60,9 +60,6 @@
     <a href="https://moneyguard-pc7y.onrender.com">Live App</a>
   </li>
   <li>
-    <a href="https://www.figma.com/design/b6yYlOxhk4hUJyrytJUjEs/Money-Guard--International-">Figma Design</a>
-  </li>
-  <li>
     <a href="https://moneyguard-server.onrender.com/api-docs">API Documentation</a>
   </li>
 </ul>
