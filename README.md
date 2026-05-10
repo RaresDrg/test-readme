@@ -117,16 +117,7 @@
 <div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>
-    I’m ready to take the next step in my career by joining a company where I can contribute my skills, grow consistently, and help build high‑quality products.
-  </span>
-</div>
-<br>
-
-<h2>🔍 Career Aspirations</h2>
-<div>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <span>
-    I’m ready to take the next step in my career by joining a company where I can contribute my skills and help build high‑quality products while continuing to improve as a developer.
+    I’m ready to take the next step in my career by joining a company where I can contribute my skills and help build high‑quality products alongside a team that values collaboration and mutual respect.
   </span>
 </div>
 <br>
