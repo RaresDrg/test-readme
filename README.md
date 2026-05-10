@@ -126,8 +126,8 @@
 <div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>
-    You can find various ways to connect with me at the following link:
+    You can find all my contact links here
   </span>
-  <span>🌐</span>
+  <span>—</span>
   <a href="https://linktr.ee/Rares_Dragan"><b>https://linktr.ee/Rares_Dragan</b></a> 
 </div>
