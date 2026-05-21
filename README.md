@@ -144,16 +144,16 @@
     <b>Setup</b>
     <ul>
       <li>
-         Vite — provides fast project setup and optimized production builds.  
+         Vite config — provides fast project setup and optimized production builds.  
       </li>
       <li>
-        TypeScript Config — enforces strict type‑checking and improves project stability.
+        TypeScript config — enforces strict type‑checking and improves project stability.
       </li>
       <li>
-        ESLint Config — maintains reliable linting rules and consistent code quality.
+        ESLint config — maintains reliable linting rules and consistent code quality.
       </li>
       <li>
-        Prettier — ensures uniform formatting across the entire codebase.
+        Prettier config — ensures uniform formatting across the entire codebase.
       </li>
     </ul>
   </li>
@@ -313,12 +313,6 @@
         MongoDB Atlas — cloud service for hosting and managing the production database.
       </li>
       <li>
-        Swagger — interactive documentation interface for all API routes and data models.
-      </li>
-      <li>
-        Postman — testing environment for validating and debugging all API endpoints.
-      </li>
-      <li>
         Resend — email delivery service with custom HTML templates.
       </li>
       <li>
@@ -326,6 +320,12 @@
       </li>
       <li>
         Open Exchange Rates — external API for fetching real‑time currency exchange rates.
+      </li>
+      <li>
+        Swagger — interactive documentation interface for all API routes and data models.
+      </li>
+      <li>
+        Postman — testing environment for validating and debugging all API endpoints.
       </li>
     </ul>
   </li>
@@ -336,10 +336,27 @@
         Render — hosting for the backend as a web service.
       </li>
       <li>
-        API proxy forwards all <code>/api</code> requests to the backend, ensuring same‑origin communication and preventing third‑party cookie issues.
+        The configuration includes the Frankfurt region for reduced latency, production environment variables for secure secret handling, and a <code>/health-check</code> route for internal service checks.
       </li>
       <li>
-        SPA rewrite rules redirect all routes to <code>/index.html</code>, supporting client‑side routing.
+        UptimeRobot — external uptime monitoring to prevent server hibernation.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>Setup</b>
+    <ul>
+      <li>
+        TypeScript config — enforces strict type‑checking and improves project stability.
+      </li>
+      <li>
+        ESLint config — maintains reliable linting rules and consistent code quality.
+      </li>
+      <li>
+        Prettier config — ensures uniform formatting across the entire codebase.
+      </li>
+      <li>
+        Nodemon config — improves development with automatic server restarts and debugging support.
       </li>
     </ul>
   </li>
