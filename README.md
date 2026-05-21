@@ -144,7 +144,7 @@
     <b>Setup</b>
     <ul>
       <li>
-         Vite config — provides fast project setup and optimized production builds.  
+         Vite — provides fast project setup and optimized production builds.  
       </li>
       <li>
         TypeScript config — enforces strict type‑checking and improves project stability.
@@ -153,7 +153,7 @@
         ESLint config — maintains reliable linting rules and consistent code quality.
       </li>
       <li>
-        Prettier config — ensures uniform formatting across the entire codebase.
+        Prettier — ensures uniform formatting across the entire codebase.
       </li>
     </ul>
   </li>
