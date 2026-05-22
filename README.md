@@ -353,10 +353,30 @@
         ESLint config — maintains reliable linting rules and consistent code quality.
       </li>
       <li>
-        Prettier config — ensures uniform formatting across the entire codebase.
+        Prettier — ensures uniform formatting across the entire codebase.
       </li>
       <li>
-        Nodemon config — improves development with automatic server restarts and debugging support.
+        Nodemon — improves development with automatic server restarts and debugging support.
+      </li>
+      <li>
+        Environment variables — centralize sensitive configuration for secure server operation.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>Architecture</b>
+    <ul>
+      <li>
+        The architecture is based on a modular REST API design, structured into clear layers that enforce separation of concerns across the application.
+      </li>
+      <li>
+        The architecture follows a clean, modular structure with a clear separation of concerns across the application.
+      </li>
+      <li>
+        Core layers are organized using a feature‑based folder approach, keeping related functionality grouped in a predictable and intuitive way.
+      </li>
+      <li>
+        Barrel files centralize exports, ensuring consistent and straightforward access to modules within the project.
       </li>
     </ul>
   </li>
