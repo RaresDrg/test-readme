@@ -375,6 +375,9 @@
       <li>
         Domain boundaries — related logic is grouped consistently, keeping the system predictable and easy to maintain.
       </li>
+      <li>
+        Barrel files centralize exports, ensuring consistent and straightforward access to modules within the project.
+      </li>
     </ul>
   </li>
 </ul>
