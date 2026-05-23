@@ -336,7 +336,7 @@
         Render — hosting for the backend as a web service.
       </li>
       <li>
-        The configuration includes the Frankfurt region for reduced latency, production environment variables for secure secret handling, and a <code>/health-check</code> route for internal service checks.
+        The configuration includes the closest available region for reduced latency, production environment variables for secure secret handling, and a <code>/health-check</code> route for internal service checks.
       </li>
       <li>
         UptimeRobot — external uptime monitoring to prevent server hibernation.
@@ -367,16 +367,13 @@
     <b>Architecture</b>
     <ul>
       <li>
-        The architecture is based on a modular REST API design, structured into clear layers that enforce separation of concerns across the application.
+        The architecture follows a modular REST API design, with a clear separation of concerns applied across the entire application.
       </li>
       <li>
-        The architecture follows a clean, modular structure with a clear separation of concerns across the application.
+        Layered structure — core functionality is divided into dedicated layers, each with a single, well‑defined responsibility.
       </li>
       <li>
-        Core layers are organized using a feature‑based folder approach, keeping related functionality grouped in a predictable and intuitive way.
-      </li>
-      <li>
-        Barrel files centralize exports, ensuring consistent and straightforward access to modules within the project.
+        Domain boundaries — related logic is grouped consistently, keeping the system predictable and easy to maintain.
       </li>
     </ul>
   </li>
