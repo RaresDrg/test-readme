@@ -339,7 +339,7 @@
         The configuration includes the closest available region for reduced latency, production environment variables for secure secret handling, and a <code>/health-check</code> route for internal service checks.
       </li>
       <li>
-        UptimeRobot — external uptime monitoring to prevent server hibernation.
+        UptimeRobot — external uptime monitoring that keeps the server awake and prevents cold starts.
       </li>
     </ul>
   </li>
@@ -367,7 +367,7 @@
     <b>Architecture</b>
     <ul>
       <li>
-        The architecture follows a modular REST API design, with a clear separation of concerns applied across the entire application.
+        The architecture follows a modular REST API design, with a clear separation of concerns across the entire application.
       </li>
       <li>
         Layered structure — core functionality is divided into dedicated layers, each with a single, well‑defined responsibility.
