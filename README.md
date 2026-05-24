@@ -367,7 +367,7 @@
     <b>Architecture</b>
     <ul>
       <li>
-        The architecture follows a modular REST API design, with a clear separation of concerns across the entire application.
+        The architecture follows a modular REST API design, with a clear separation of concerns across the application.
       </li>
       <li>
         Core logic is structured into dedicated layers, each with a single, well‑defined responsibility.
