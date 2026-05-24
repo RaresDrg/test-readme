@@ -164,7 +164,7 @@
         The architecture follows a clean, modular structure with a clear separation of concerns across the application.
       </li>
       <li>
-        Core layers are organized using a feature‑based folder approach, keeping related functionality grouped in a predictable and intuitive way.
+        Core layers are organized using a technical‑based folder structure, keeping related logic grouped in a predictable and intuitive way.
       </li>
       <li>
         Barrel files centralize exports, ensuring consistent and straightforward access to modules within the project.
