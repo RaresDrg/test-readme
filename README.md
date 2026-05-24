@@ -370,10 +370,7 @@
         The architecture follows a modular REST API design, with a clear separation of concerns across the application.
       </li>
       <li>
-        Layered structure — core functionality is divided into dedicated layers, each with a single, well‑defined responsibility.
-      </li>
-      <li>
-        Domain boundaries — related logic is grouped consistently, keeping the system predictable and easy to maintain.
+        A layered structure organizes core functionality into dedicated layers, each with a single, well‑defined responsibility.
       </li>
       <li>
         Barrel files centralize exports, ensuring consistent and straightforward access to modules within the project.
