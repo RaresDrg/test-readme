@@ -384,7 +384,10 @@
         The validation strategy follows a two-layer approach designed to validate client input and preserve database integrity.
       </li>
       <li>
-        Layer 1: Request validation — all incoming client input (body, query, params) is validated through a centralized and dynamic Joi schema system, as the first layer of protection, rejecting invalid or incomplete data before it reaches the business logic.
+        Layer 1: Request validation — all incoming client input (body, query, params) is validated through a centralized and dynamic Joi schema system, acting as the first layer of protection and rejecting invalid or incomplete data before it reaches the business logic.
+      </li>
+      <li>
+        Layer 2: Database validation —
       </li>
     </ul>
   </li>
