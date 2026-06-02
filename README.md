@@ -388,7 +388,7 @@
     <b>Other Details</b>
     <ul>
       <li>
-        Environment validation — env variables are strictly validated at startup to ensure safe and stable initialization.
+        Environment validation — env variables are strictly validated at startup, preventing the server from running with missing or invalid configuration.
       </li>
     </ul>
   </li>
