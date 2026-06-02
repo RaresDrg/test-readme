@@ -358,9 +358,6 @@
       <li>
         Nodemon — improves development with automatic server restarts and debugging support.
       </li>
-      <li>
-        Environment variables — centralize sensitive configuration for secure server operation.
-      </li>
     </ul>
   </li>
   <li>
@@ -374,6 +371,27 @@
       </li>
       <li>
         Barrel files centralize exports, ensuring consistent and straightforward access to modules within each layer.
+      </li>
+      <li>
+        Application startup is handled through a dedicated initialization layer that manages database connectivity and launches the server.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>Validation</b>
+    <ul>
+      <li></li>
+      <li></li>
+    </ul>
+  </li>
+  <li>
+    <b>Other Details</b>
+    <ul>
+      <li>
+        Environment validation — env vars are strictly validated at startup to ensure safe and stable initialization.
+      </li>
+      <li>
+        Environment validation — environment variables are strictly validated at startup to ensure safe and stable initialization.
       </li>
     </ul>
   </li>
