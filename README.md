@@ -388,10 +388,7 @@
     <b>Other Details</b>
     <ul>
       <li>
-        Environment validation — env vars are strictly validated at startup to ensure safe and stable initialization.
-      </li>
-      <li>
-        Environment validation — environment variables are strictly validated at startup to ensure safe and stable initialization.
+        Environment validation — env variables are strictly validated at startup to ensure safe and stable initialization.
       </li>
     </ul>
   </li>
