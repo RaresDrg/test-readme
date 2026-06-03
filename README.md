@@ -372,9 +372,6 @@
       <li>
         Barrel files centralize exports, ensuring consistent and straightforward access to modules within each layer.
       </li>
-      <li>
-        Application startup is handled through a dedicated initialization layer that manages database connectivity and launches the server.
-      </li>
     </ul>
   </li>
   <li>
@@ -384,7 +381,7 @@
         The validation strategy follows a two-layer approach designed to validate client input and preserve database integrity.
       </li>
       <li>
-        Layer 1: Request validation <br> — all incoming client input (body, query, params) is validated through a centralized and dynamic Joi schema system, acting as the first layer of protection and rejecting invalid or incomplete data before it reaches the business logic.
+        Layer 1: Request validation — all incoming client input (body, query, params) is validated through a centralized and dynamic Joi schema system, acting as the first layer of protection and rejecting invalid or incomplete data before it reaches the business logic.
       </li>
       <li>
         Layer 2: Database validation —
@@ -395,7 +392,13 @@
     <b>Other Details</b>
     <ul>
       <li>
-        Environment validation — env variables are strictly validated at startup, preventing the server from running with missing or invalid configuration.
+        Environment guard — env variables are strictly validated at startup to prevent the server from running with missing or invalid configuration.
+      </li>
+      <li>
+        Controlled output shaping — Mongoose schemas apply custom serialization rules to ensure that only intended fields are exposed in API responses, while sensitive or internal data is automatically omitted.
+      </li>
+      <li>
+        Controlled output shaping — Mongoose schemas apply custom serialization rules so that only intended fields are exposed in API responses, while sensitive or internal data is omitted.
       </li>
     </ul>
   </li>
