@@ -222,7 +222,7 @@
         Responsive Design — built on a mobile‑first foundation, the interface adapts seamlessly across devices and screen sizes.
       </li>
       <li>
-         Responsive Assets — images are served in 1x/2x resolutions and breakpoint‑specific variants for optimal visual quality on all displays.
+        Responsive Assets — images are served in 1x/2x resolutions and breakpoint‑specific variants for optimal visual quality on all displays.
       </li>
       <li>
         Images are manually optimized with Squoosh, converted to modern WebP formats, and compressed to achieve a balanced quality–size ratio.
@@ -375,6 +375,12 @@
     </ul>
   </li>
   <li>
+    <b>Auth & Session Management</b>
+    <ul>
+      <li></li>
+    </ul>
+  </li>
+  <li>
     <b>Validation</b>
     <ul>
       <li>
@@ -395,10 +401,10 @@
         Environment guard — env variables are strictly validated at startup to prevent the server from running with missing or invalid configuration.
       </li>
       <li>
-        Controlled output shaping — Mongoose schemas apply custom serialization rules to ensure that only intended fields are exposed in API responses, while sensitive or internal data is automatically omitted.
+        Controlled output shaping — Mongoose schemas apply custom serialization rules to ensure that only intended fields are exposed in API responses, while sensitive or internal data is omitted.
       </li>
       <li>
-        Controlled output shaping — Mongoose schemas apply custom serialization rules so that only intended fields are exposed in API responses, while sensitive or internal data is omitted.
+        Data expiration — Time‑sensitive records are automatically removed via MongoDB TTL indexes, ensuring clean, up‑to‑date storage without any manual maintenance.
       </li>
     </ul>
   </li>
