@@ -69,7 +69,6 @@
     <a href="https://github.com/RaresDrg/MoneyGuard/tree/main/server">Backend Documentation</a>
   </li>
 </ul>
-<br>
 
 <h2>Description</h2>
 <div>
@@ -126,7 +125,6 @@
   </li>
 </ul>
 
-<br>
 <br>
 <div align="center">
   <a href="https://moneyguard-pc7y.onrender.com">
