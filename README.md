@@ -113,7 +113,7 @@
     <b>Spending Insights</b>
     <span>—</span>
     <span>
-      expense breakdown for the selected time interval, with category distribution and financial totals.
+      expense breakdown by selected time interval, with category distribution and financial totals.
     </span>
   </li>
   <li>
