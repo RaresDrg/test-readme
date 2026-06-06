@@ -60,7 +60,13 @@
     <a href="https://moneyguard-pc7y.onrender.com">Live App</a>
   </li>
   <li>
-    <a href="https://moneyguard-server.onrender.com/api-docs">API Documentation</a>
+    <a href="https://moneyguard-server.onrender.com/api-docs">API Docs</a>
+  </li>
+  <li>
+    <a href="https://github.com/RaresDrg/MoneyGuard/tree/main/client">Frontend Documentation</a>
+  </li>
+  <li>
+    <a href="https://github.com/RaresDrg/MoneyGuard/tree/main/server">Backend Documentation</a>
   </li>
 </ul>
 
@@ -116,20 +122,6 @@
     <span>
       instant conversion of foreign amounts into USD, using daily‑updated exchange rates.
     </span>
-  </li>
-</ul>
-
-<h2>Frontend</h2>
-<ul>
-  <li>
-    <a href="./client">View Frontend Documentation</a>
-  </li>
-</ul>
-
-<h2>Backend</h2>
-<ul>
-  <li>
-    <a href="./server">View Backend Documentation</a>
   </li>
 </ul>
 
