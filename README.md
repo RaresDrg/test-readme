@@ -71,13 +71,13 @@
 </ul>
 
 <h2>Description</h2>
-<p>
+<div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <b>MoneyGuard</b>
   <span>
     is a full‑stack application that helps users keep their personal budgeting simple and organized. Its clean and modern interface provides a smooth experience for tracking daily transactions, understanding spending behavior, and staying updated on the current account balance.
   </span>
-</p>
+</div>
 
 <h2>Features</h2>
 <ul>
@@ -106,14 +106,14 @@
     <b>Real‑Time Balance</b>
     <span>—</span>
     <span>
-      automatic balance updates after transaction changes.
+      automatic balance updates triggered by any transaction change.
     </span>
   </li>
   <li>
-    <b>Statistical Insights</b>
+    <b>Spending Insights</b>
     <span>—</span>
     <span>
-      monthly breakdown of transactions, highlighting expense distribution across categories and overall financial totals.
+      expense breakdown for the selected time interval, with category distribution and financial totals.
     </span>
   </li>
   <li>
