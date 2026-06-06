@@ -71,13 +71,13 @@
 </ul>
 
 <h2>Description</h2>
-<div>
+<p>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <b>MoneyGuard</b>
   <span>
     is a full‑stack application that helps users keep their personal budgeting simple and organized. Its clean and modern interface provides a smooth experience for tracking daily transactions, understanding spending behavior, and staying updated on the current account balance.
   </span>
-</div>
+</p>
 
 <h2>Features</h2>
 <ul>
