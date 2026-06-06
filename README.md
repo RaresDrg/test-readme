@@ -69,6 +69,7 @@
     <a href="https://github.com/RaresDrg/MoneyGuard/tree/main/server">Backend Documentation</a>
   </li>
 </ul>
+<br>
 
 <h2>Description</h2>
 <div>
