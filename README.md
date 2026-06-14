@@ -53,7 +53,6 @@
   </picture>
 </div>
 <br>
-<br>
 
 <h2>Project Links</h2>
 <ul>
